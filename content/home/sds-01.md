@@ -1,6 +1,6 @@
 ---
 widget: About
-widget_id: SdS-01
+widget_id: about
 headless: true
 weight: 10
 active: true
