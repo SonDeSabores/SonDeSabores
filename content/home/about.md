@@ -1,8 +1,14 @@
+---
 widget: about
-headless: true  # This file represents a page section.
-
-# ... Put Your Section Options Here (title etc.) ...
-
-# Choose the user profile to display
-# This should be the username of a profile in your `content/authors/` folder.
+widget_id: about
+headless: true
 author: 'admin'
+weight: 10
+active: true
+design:
+  columns: "2"
+  background:
+    text_color_light: false
+    image_darken: 0
+---
+Prueba de esto...
