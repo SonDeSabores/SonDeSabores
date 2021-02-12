@@ -2,8 +2,7 @@
 widget: about
 widget_id: about
 headless: true
-# author: 'admin'
-weight: 10
+weight: 20
 active: true
 design:
   columns: "2"
