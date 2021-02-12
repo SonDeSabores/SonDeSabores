@@ -40,8 +40,7 @@ design:
 </span>
 
 <body>
-<h1 style="text-align:center;">Center alignment</h1>
-<p style="text-align:left;">Left side alignment</p>
+<h1 style="color:green; text-align:center; font-size:250%;">SON DE SABORES A VER</h1>
 </body>
 
 <body>
