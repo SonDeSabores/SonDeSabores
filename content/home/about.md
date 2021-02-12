@@ -30,7 +30,7 @@ design:
 # SON DE SABORES
 <html>
 
-<span  
+<span>
   <div align="center">SON DE SABORES TEST</div>
 </span>
 
