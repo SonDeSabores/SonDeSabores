@@ -65,7 +65,7 @@ design:
     background-color: #C7E8F7;
     border-radius: 6px;
     border: 2px solid #000000;
-    display: flex;
+    display: center;
     justify-content: center;
     align-items: center;
   }
