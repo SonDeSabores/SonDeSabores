@@ -29,6 +29,7 @@ design:
 <!--StartFragment-->
 
 # SON DE SABORES
+<span style="color:blue">ESTO ES UN *AZUL* textillo</span>.
 
 <!--EndFragment-->
 
