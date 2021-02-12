@@ -56,8 +56,7 @@ design:
 </p>
 
 <style type="text/css">
-  .boton_personalizado1{
-    text-decoration: none;
+  .boton_personalizado1{    
     padding: 6px;
     font-weight: 600;
     font-size: 20px;
