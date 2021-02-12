@@ -4,7 +4,7 @@ subtitle: Prueba
 publication_types:
   - "4"
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
