@@ -36,7 +36,7 @@ design:
 
 <!--StartFragment-->
 
-En nuestra *parada* podrá encontrar comida peruana, tapas, helados, extractos de frutas naturales, batidos y zumos de frutas exóticas, postres caseros, cerveza *Estrella Damm* y *Complot IPA*, además de otras especialidades. Y todo tanto para consumir en las instalaciones del Mercado como para llevar.
+En nuestra *parada* podrá encontrar comida peruana, tapas, helados, extractos de frutas naturales, batidos y zumos de frutas exóticas, postres caseros, cerveza *Estrella Damm* y *Complot IPA*, además de otras especialidades. Y todo tanto para consumir en las instalaciones del Mercado como para llevar
 
 <!--EndFragment-->
 
