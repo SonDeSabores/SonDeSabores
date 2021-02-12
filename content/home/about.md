@@ -31,7 +31,12 @@ design:
 <html>
 
 <span>
-  <div align="center">SON DE SABORES TEST</div>
+  <div
+    align="center"
+    style="color:green;"
+    style="font-size:250%;"
+    >SON DE SABORES TEST
+  </div>
 </span>
 
 <body>
