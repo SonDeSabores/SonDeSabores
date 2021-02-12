@@ -42,8 +42,6 @@ En nuestra *parada* podrá encontrar comida peruana, tapas, helados, extractos d
 
 <!--EndFragment-->
 
-
-
 <p style="font-family:lato,arial">
 <a class="boton_personalizado1" href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI?usp=sharing" target="_blank">Productos y precios</a>
 <br/>
