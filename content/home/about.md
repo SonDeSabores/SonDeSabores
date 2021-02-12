@@ -46,13 +46,13 @@ design:
 <br/>
 
 <p style="font-family:lato,arial">
-<a class="boton_personalizado3" href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI?usp=sharing" target="_blank">Productos y precios</a>
+<a class="boton_personalizado1" href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI?usp=sharing" target="_blank">Productos y precios</a>
 <br/>
-<a class="boton_personalizado2" href="tel:651945587">Pedido telefónico</a>
+<a class="boton_personalizado2" href="tel:+34 651 94 55 87">Pedido telefónico</a>
 <br/>
 <a class="boton_personalizado3" href="mailto:SonDeSaboresPeruanos@gmail.com" target="_blank">Enviar eMail</a>
 <br/>
-<a class="boton_personalizado3" href="https://drive.google.com/file/d/1uZ6UECWq5DOgjf6Bd5E0aEViQpXC211Q/view" target="_blank">Ir a la Tienda del Mercado</a>
+<a class="boton_personalizado1" href="https://drive.google.com/file/d/1uZ6UECWq5DOgjf6Bd5E0aEViQpXC211Q/view" target="_blank">Ir a la Tienda del Mercado</a>
 </p>
 
 <style type="text/css">
@@ -61,10 +61,10 @@ design:
     padding: 6px;
     font-weight: 600;
     font-size: 20px;
-    font-color: #1883ba;
+    color: #ffffff;
     background-color: #1883ba;
     border-radius: 6px;
-    border: 2px solid #0016b0;
+    border: 2px solid #000000;
     display: flex;
     justify-content: center;
     align-items: center;
