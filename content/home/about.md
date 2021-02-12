@@ -34,7 +34,7 @@ design:
   <b>SON DE SABORES</b>
 </h1>
 
-<h1 style="color:white; text-align:center; font-size:100%;">
+<h1 style="color:white; text-align:center; font-size:150%;">
   Comida Peruana en el Mercado Municipal de Vinaròs (Castellón)
 </h1>
 
