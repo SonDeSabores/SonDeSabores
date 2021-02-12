@@ -30,8 +30,9 @@ design:
 
 # SON DE SABORES
 
-<span
-  style="text-align: center"
+<div align="center">SON DE SABORES TEST</div>
+
+<span  
   style="color: #ffffff"
   >SON DE SABORES
 </span>
