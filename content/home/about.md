@@ -2,7 +2,7 @@
 widget: about
 widget_id: about
 headless: true
-author: 'admin'
+# author: 'admin'
 weight: 10
 active: true
 design:
