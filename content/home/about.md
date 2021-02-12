@@ -26,18 +26,14 @@ design:
       - 20px
       - "0"
 ---
-<!--StartFragment-->
 
 # SON DE SABORES
 
-<div align="center" color: #ffffff">SON DE SABORES TEST</div>
-
 <span
-  style="color: #ffffff"
-  >SON DE SABORES
+  style="color: white"
+  <div align="center" color "white">SON DE SABORES TEST</div>
 </span>
 
-<!--EndFragment-->
 
 <!--StartFragment-->
 
