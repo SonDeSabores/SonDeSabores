@@ -71,7 +71,7 @@ design:
   }
   .boton_personalizado1:hover{
     color: #1883ba;
-    background-color: #ffffff;
+    background-color: #000000;
   }
 
   .boton_personalizado2{
