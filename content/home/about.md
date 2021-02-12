@@ -57,10 +57,11 @@ design:
 
 <style type="text/css">
   .boton_personalizado1{    
+    text-decoration: none;
     padding: 6px;
     font-weight: 600;
     font-size: 20px;
-    color: #000000;
+    color: white;
     background-color: #1883ba;
     border-radius: 6px;
     border: 2px solid #000000;
