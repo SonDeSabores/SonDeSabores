@@ -28,8 +28,8 @@ design:
 ---
 
 <html>
-
 <body>
+
 <h1 style="color:white; text-align:center; font-size:500%;">
   <b>SON DE SABORES</b>
 </h1>
@@ -38,27 +38,13 @@ design:
   Comida Peruana en el Mercado Municipal de Vinaròs (Castellón)
 </h1>
 
-</body>
+<h1 style="color:white; text-align:center; font-size:100%;">
+  En nuestra *parada* podrá encontrar comida peruana, tapas, helados, extractos de frutas naturales, batidos y zumos de frutas exóticas, postres caseros, cerveza *Estrella Damm* y *Complot IPA*, además de otras especialidades. Y todo tanto para consumir en las instalaciones del Mercado como para llevar
+</h1>
 
+</body>
 </html>
 
-<!--StartFragment-->
-
-## Comida Peruana en el Mercado Municipal de Vinaròs (Castellón)
-
-<!--EndFragment-->
-
-<!--StartFragment-->
-
-En nuestra *parada* podrá encontrar comida peruana, tapas, helados, extractos de frutas naturales, batidos y zumos de frutas exóticas, postres caseros, cerveza *Estrella Damm* y *Complot IPA*, además de otras especialidades. Y todo tanto para consumir en las instalaciones del Mercado como para llevar
-
-<!--EndFragment-->
-
-<div id="h.INITIAL_GRID.lkvj6jq9lnd6" class="hJDwNd-AhqUyc-uQSCkd jXK9ad D2fZ2 OjCsFc GNzUNc"><div class="jXK9ad-SmKAyb"><div class="tyJCtd mGzaTb baZpAe lkHyyc"><h1 id="h.phhdcm9eaxt1" dir="ltr" class="CDt4Ke zfr3Q duRjpb" style="text-align: center;"><span style="color: #ffffff; font-family: Righteous; font-weight: normal;">SON DE SABORES</span></h1></div></div></div>
-
-<div class="oKdM2c"><div id="h.76c0c532e7afb434_0" class="hJDwNd-AhqUyc-uQSCkd jXK9ad D2fZ2 GNzUNc"><div class="jXK9ad-SmKAyb"><div class="tyJCtd mGzaTb baZpAe"><h2 id="h.1v0iore1fuw" dir="ltr" class="CDt4Ke zfr3Q JYVBee" style="line-height: 1.0; text-align: center;"><span style="font-family: Lato; font-weight: normal;">Comida Peruana en el Mercado Municipal de Vinaròs (Castellón)</span></h2></div></div></div></div>
-
-<p dir="ltr" class="CDt4Ke zfr3Q" style="line-height: 1.15; text-align: center;"><span style="font-size: 14pt; vertical-align: baseline;">En nuestra </span><span style="font-size: 14pt; vertical-align: baseline;"><em>parada </em></span><span style="font-size: 14pt; vertical-align: baseline;">podrá encontrar comida peruana, tapas, helados, extractos de frutas naturales, batidos y zumos de frutas exóticas, postres caseros, cerveza </span><span style="font-size: 14pt; vertical-align: baseline;"><em>Estrella Damm</em></span><span style="font-size: 14pt; vertical-align: baseline;"> y </span><span style="font-size: 14pt; vertical-align: baseline;"><em>Complot IPA</em></span><span style="font-size: 14pt; vertical-align: baseline;">, además de otras especialidades. Y todo tanto para consumir en las instalaciones del Mercado como para llevar</span></p>
 
 <p style="font-family:lato,arial">
 <a class="boton_personalizado1" href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI?usp=sharing" target="_blank">Productos y precios</a>
