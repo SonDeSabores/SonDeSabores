@@ -31,26 +31,26 @@ design:
 <html>
 
 <span>
-  <div align="center"># SON DE SABORES TEST</div>
+  <div align="center">SON DE SABORES TEST</div>
 </span>
 
 <body>
-<h1 style=”text-align:center;”>Center alignment</h1>
-<p style=”text-align:left;”>Left side alignment</p>
+<h1 style="text-align:center;">Center alignment</h1>
+<p style="text-align:left;">Left side alignment</p>
 </body>
 
 <body>
-<h1 style=”font-family:arial;”> This is a Arial font </h1>
-<p style=”font-family:calibri;”>This is a Calibri font </p>
+<h1 style="font-family:arial;">This is a Arial font </h1>
+<p style="font-family:calibri;">This is a Calibri font </p>
 </body>
 
 <body>
-<h1 style=”font-size:250%;”> This is a Heading </h1>
-<p style=”font-size:150%;” >This is a paragraph </p>
+<h1 style="font-size:250%;">This is a Heading </h1>
+<p style="font-size:150%;">This is a paragraph </p>
 </body>
 
-<body><h1 style=”color:green;”> This is a Heading </h1>
-<p style=”color:red;” >This is a paragraph </p>
+<body><h1 style="color:green;">This is a Heading </h1>
+<p style="color:red;">This is a paragraph </p>
 </body>
 
 </html>
