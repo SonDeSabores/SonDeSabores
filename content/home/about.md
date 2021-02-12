@@ -62,7 +62,7 @@ design:
     font-weight: 600;
     font-size: 20px;
     color: white;
-    background-color: #1883ba;
+    background-color: #C7E8F7;
     border-radius: 6px;
     border: 2px solid #000000;
     display: flex;
@@ -70,7 +70,7 @@ design:
     align-items: center;
   }
   .boton_personalizado1:hover{
-    color: #000000;
+    color: #C7E8F7;
     background-color: #FFF8C2;
   }
 
@@ -88,7 +88,7 @@ design:
     align-items: center;
   }
   .boton_personalizado2:hover{
-    color: #000000;
+    color: #62CC80;
     background-color: #FFF8C2;
   }
 
@@ -106,7 +106,7 @@ design:
     align-items: center;
   }
   .boton_personalizado3:hover{
-    color: #1883ba;
+    color: #84A5AE;
     background-color: #FFF8C2;
   }
 </style>
