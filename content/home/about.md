@@ -30,12 +30,12 @@ design:
 <html>
 <body>
 
-<h1 style="color:white; text-align:center; font-size:500%;">
+<h1 style="color:white; text-align:center; font-size:400%;">
   <b>SON DE SABORES</b>
 </h1>
 
 <h1 style="color:white; text-align:center; font-size:150%;">
-  Comida Peruana en el Mercado Municipal de Vinaròs (Castellón)
+  <b>Comida Peruana en el Mercado Municipal de Vinaròs (Castellón)</b>
 </h1>
 
 <h1 style="color:white; text-align:center; font-size:100%;">
