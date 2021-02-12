@@ -70,8 +70,8 @@ design:
     align-items: center;
   }
   .boton_personalizado1:hover{
-    color: #1883ba;
-    background-color: #000000;
+    color: #000000;
+    background-color: #FFF8C2;
   }
 
   .boton_personalizado2{
@@ -88,8 +88,8 @@ design:
     align-items: center;
   }
   .boton_personalizado2:hover{
-    color: #1883ba;
-    background-color: #ffffff;
+    color: #000000;
+    background-color: #FFF8C2;
   }
 
   .boton_personalizado3{
@@ -107,7 +107,7 @@ design:
   }
   .boton_personalizado3:hover{
     color: #1883ba;
-    background-color: #ffffff;
+    background-color: #FFF8C2;
   }
 </style>
 
