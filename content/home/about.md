@@ -27,34 +27,17 @@ design:
       - "0"
 ---
 
-# SON DE SABORES
 <html>
 
-<span>
-  <div
-    align="center"
-    style="color:green;"
-    style="font-size:250%;"
-    >SON DE SABORES TEST
-  </div>
-</span>
-
 <body>
-<h1 style="color:green; text-align:center; font-size:250%;">SON DE SABORES A VER</h1>
-</body>
+<h1 style="color:white; text-align:center; font-size:500%;">
+  <b>SON DE SABORES</b>
+</h1>
 
-<body>
-<h1 style="font-family:arial;">This is a Arial font </h1>
-<p style="font-family:calibri;">This is a Calibri font </p>
-</body>
+<h1 style="color:white; text-align:center; font-size:100%;">
+  Comida Peruana en el Mercado Municipal de Vinaròs (Castellón)
+</h1>
 
-<body>
-<h1 style="font-size:250%;">This is a Heading </h1>
-<p style="font-size:150%;">This is a paragraph </p>
-</body>
-
-<body><h1 style="color:green;">This is a Heading </h1>
-<p style="color:red;">This is a paragraph </p>
 </body>
 
 </html>
