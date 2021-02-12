@@ -61,7 +61,7 @@ design:
     padding: 6px;
     font-weight: 600;
     font-size: 20px;
-    color: white;
+    color: black;
     background-color: #C7E8F7;
     border-radius: 6px;
     border: 2px solid #000000;
