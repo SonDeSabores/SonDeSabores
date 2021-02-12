@@ -32,7 +32,7 @@ design:
 
 <span
   style="color: white"
-  <div align="center" color "white">SON DE SABORES TEST</div>
+  <div align="center">SON DE SABORES TEST</div>
 </span>
 
 <body>
