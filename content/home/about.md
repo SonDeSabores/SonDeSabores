@@ -13,9 +13,12 @@ active: true
 design:
   columns: "1"
   background:
-    gradient_start: DarkGreen
-    gradient_end: ForestGreen
-    text_color_light: true
+    # gradient_start: DarkGreen
+    # gradient_end: ForestGreen
+    # text_color_light: true    
+    text_color_light: false
+    image_darken: 0
+    image: sds-portada-01.jpg
   spacing:
     padding:
       - 20px
