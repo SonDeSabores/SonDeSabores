@@ -45,15 +45,10 @@ design:
 <br/>
 <br/>
 
-<div class="content">  
-  <div class="flex-parent jc-center">
-    <button type="submit">Inline-block button</button>
-  </div>
-    
-  <div class="flex-parent jc-center">
-<button type="submit" class="block magenta">Block button</button>
-  </div>  
-</div>
+
+
+<style>
+body
 
 $bodyBg: #030018;
 $dkGray: #1E1F26;
@@ -215,6 +210,20 @@ button {
     margin-right: 20px;
   }
 }
+
+</style>
+
+<div class="content">  
+  <div class="flex-parent jc-center">
+    <button type="submit">Inline-block button PRUEBA</button>
+  </div>
+    
+  <div class="flex-parent jc-center">
+<button type="submit" class="block magenta">Block button TEST</button>
+  </div>
+  
+</div>
+
 
 
 
