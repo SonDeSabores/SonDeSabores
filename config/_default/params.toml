@@ -100,7 +100,7 @@ address = {street = "Plaza San Agustín", city = "Vinaròs", region = "", postco
 coordinates = {latitude = "40.47018332839068", longitude = "0.4770199999882015"}
 
 # Directions for visitors to locate you.
-directions = "Estamos en la parada nº 25 del Mercado Municipal de Vinarós"
+directions = "Estamos en la parada nº 25 del Mercado Municipal"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
