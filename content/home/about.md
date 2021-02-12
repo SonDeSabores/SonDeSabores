@@ -15,7 +15,7 @@ design:
   background:
     # gradient_start: DarkGreen
     # gradient_end: ForestGreen
-    # text_color_light: true    
+    # text_color_light: true
     text_color_light: false
     image_darken: 0
     image: sds-portada-01.jpg
@@ -61,7 +61,7 @@ design:
     padding: 6px;
     font-weight: 600;
     font-size: 20px;
-    font-color: #000000;
+    font-color: #1883ba;
     background-color: #1883ba;
     border-radius: 6px;
     border: 2px solid #0016b0;
