@@ -2,6 +2,7 @@
 widget: about
 widget_id: about
 headless: true
+author: 'admin'
 weight: 20
 active: true
 design:
