@@ -10,7 +10,6 @@ design:
   background:
     text_color_light: false
     image_darken: 0
----
 
 <p style="font-family:lato,arial">
 <a class="boton_personalizado1" href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI?usp=sharing" target="_blank">Productos y precios</a>
@@ -75,3 +74,5 @@ design:
     background-color: #ffffff;
   }
 </style>
+
+---
