@@ -10,9 +10,9 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 slides: example
 url_pdf: ""
 publication_types:
-  - "1"
+  - "0"
 authors:
-  - admin
+  - SdS
 author_notes: []
 publication: ""
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
@@ -28,26 +28,18 @@ subtitle: Este es el subtítulo
 doi: ""
 featured: true
 tags: []
+categories:
+  - Comida
 projects:
   - example
 image:
   caption: "Image credit: [**SdS**](https://sites.google.com/view/sondesabores/inicio)"
-  focal_point: ""
+  focal_point: Smart
   preview_only: false
   filename: ""
-date: 2021-02-12T18:15:59.708Z
+date: 2021-02-12T23:57:20.851Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
