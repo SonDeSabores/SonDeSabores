@@ -25,12 +25,13 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-summary: Resumen de lo que sea
+summary: Comida peruana y española, extractos de frutas naturales, zumos de
+  frutas exóticas, postres caseros, bebidas, etc. Y todo preparado al momento.
 date: 2021-02-13T14:12:05.069Z
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dapibus lacinia arcu eget euismod. Cras sagittis dolor sed ultrices consequat. Pellentesque vulputate felis euismod interdum sollicitudin. Vivamus luctus erat vel magna rutrum viverra. Sed ex erat, venenatis pharetra elit non, auctor eleifend ex. Quisque egestas volutpat porttitor. Etiam euismod convallis tellus, et pulvinar felis dapibus quis. In et elementum ligula.
 
-Cras lacinia enim odio, quis pretium turpis feugiat id. Suspendisse nisi quam, consequat facilisis nulla eget, facilisis condimentum turpis. Phasellus commodo, nunc et mattis lacinia, nibh eros ornare odio, et fringilla metus magna porttitor turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer et leo non augue molestie ullamcorper nec in metus. Nunc maximus vestibulum mauris, non sagittis nulla porttitor ac. Sed id tincidunt lectus. Vestibulum id tempor elit. Aliquam erat volutpat. Integer sagittis orci vitae urna placerat commodo. Etiam volutpat justo sit amet semper cursus. Donec aliquet facilisis sapien vel posuere. Ut lacinia semper lobortis. In ac est eget urna consectetur consequat egestas in nisi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Cras lacinia enim odio, quis pretium turpis feugiat id. Suspendisse nisi quam, consequat facilisis nulla eget, facilisis condimentum turpis. Phasellus commodo, nunc et mattis lacinia, nibh eros ornare odio, et fringilla metus magna porttitor turpis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer et leo non augue molestie ullamcorper nec in metus. Nunc maximus vestibulum mauris, non sagittis nulla porttitor ac. Sed id tincidunt lectus. Vestibulum id tempor elit. Aliquam erat volutpat. Integer sagittis orci vitae urna placerat commodo. Etiam volutpat justo sit amet semper cursus. Donec aliquet facilisis sapien vel posuere. Donde apunta la flecha verde. Ut lacinia semper lobortis. In ac est eget urna consectetur consequat egestas in nisi. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
 ![](sds-google-maps.png "Localización")
 
