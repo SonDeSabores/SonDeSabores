@@ -11,7 +11,7 @@ tags:
 categories:
   - Comida
 image:
-  filename: https://i.ytimg.com/vi_webp/mCSKnU-PxXA/hqdefault.webp
+  filename: null
   focal_point: Center
   preview_only: false
 ---
