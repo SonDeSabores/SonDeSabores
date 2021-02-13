@@ -12,7 +12,7 @@ categories:
   - Comida
 image:
   filename: null
-  focal_point: Center
+  focal_point: Smart
   preview_only: false
 ---
 El ceviche es uno de los platos más típicos y reconocidos de la gastronomía peruana. Por otro lado, Italia, otro país rico en gastronomía y con una gran tradición culinaria marina, goza de una infinidad de platos a base de pescado y mariscos. ¿Qué opinarán nuestros amigos italianos sobre el ceviche?
