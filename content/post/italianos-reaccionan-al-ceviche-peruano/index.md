@@ -11,11 +11,13 @@ tags:
 categories:
   - Comida
 image:
-  filename: ""
+  filename: https://i.ytimg.com/vi_webp/mCSKnU-PxXA/hqdefault.webp
   focal_point: Center
   preview_only: false
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dapibus lacinia arcu eget euismod. Cras sagittis dolor sed ultrices consequat. Pellentesque vulputate felis euismod interdum sollicitudin. Vivamus luctus erat vel magna rutrum viverra. Sed ex erat, venenatis pharetra elit non, auctor eleifend ex. Quisque egestas volutpat porttitor. Etiam euismod convallis tellus, et pulvinar felis dapibus quis. In et elementum ligula.
+El ceviche es uno de los platos más típicos y reconocidos de la gastronomía peruana. Por otro lado, Italia, otro país rico en gastronomía y con una gran tradición culinaria marina, goza de una infinidad de platos a base de pescado y mariscos. ¿Qué opinarán nuestros amigos italianos sobre el ceviche?
+
+El ceviche de este vídeo fue preparado por el restaurante peruano *[El Chorrillano](https://www.facebook.com/Rest-El-Chorrillano-Milano-1450443475222711),* en la ciudad de Milán.
 
 <iframe width="460" height="259" src="https://www.youtube.com/embed/mCSKnU-PxXA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
