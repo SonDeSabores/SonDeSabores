@@ -27,31 +27,6 @@ design:
 <html>
 <body>
 
-<h1 style="color:white; text-align:center; font-size:400%;">
-  <b>SON DE SABORES</b>
-</h1>
-
-<h1 style="color:white; text-align:center; font-size:150%;">
-  <b>Comida Peruana en el Mercado Municipal de Vinaròs (Castellón)</b>
-</h1>
-
-<h1 style="color:white; text-align:center; font-size:100%;">
-  En nuestra parada podrá encontrar comida peruana, tapas, helados, extractos de frutas naturales, batidos y zumos de frutas exóticas, postres caseros, cerveza Estrella Damm y Complot IPA, además de otras especialidades. Y todo tanto para consumir en las instalaciones del Mercado como para llevar
-</h1>
-
-<br/>
-<br/>
-
-<p style="font-family:lato,arial">
-<a class="boton_personalizado1" href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI?usp=sharing" target="_blank">Productos y precios</a>
-<br/>
-<a class="boton_personalizado2" href="tel:+34 651 94 55 87">Pedido telefónico</a>
-<br/>
-<a class="boton_personalizado3" href="mailto:SonDeSaboresPeruanos@gmail.com" target="_blank">Enviar eMail</a>
-<br/>
-<a class="boton_personalizado1" href="https://drive.google.com/file/d/1uZ6UECWq5DOgjf6Bd5E0aEViQpXC211Q/view" target="_blank">Ir a la Tienda del Mercado</a>
-</p>
-
 <style type="text/css">
   .boton_personalizado1{    
     text-decoration: none;
@@ -107,6 +82,31 @@ design:
     background-color: #FFF8C2;
   }
 </style>
+
+<h1 style="color:white; text-align:center; font-size:400%;">
+  <b>SON DE SABORES</b>
+</h1>
+
+<h1 style="color:white; text-align:center; font-size:150%;">
+  <b>Comida Peruana en el Mercado Municipal de Vinaròs (Castellón)</b>
+</h1>
+
+<h1 style="color:white; text-align:center; font-size:100%;">
+  En nuestra parada podrá encontrar comida peruana, tapas, helados, extractos de frutas naturales, batidos y zumos de frutas exóticas, postres caseros, cerveza Estrella Damm y Complot IPA, además de otras especialidades. Y todo tanto para consumir en las instalaciones del Mercado como para llevar
+</h1>
+
+<br/>
+<br/>
+
+<p style="font-family:lato,arial">
+<a class="boton_personalizado1" href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI?usp=sharing" target="_blank">Productos y precios</a>
+<br/>
+<a class="boton_personalizado2" href="tel:+34 651 94 55 87">Pedido telefónico</a>
+<br/>
+<a class="boton_personalizado3" href="mailto:SonDeSaboresPeruanos@gmail.com" target="_blank">Enviar eMail</a>
+<br/>
+<a class="boton_personalizado1" href="https://drive.google.com/file/d/1uZ6UECWq5DOgjf6Bd5E0aEViQpXC211Q/view" target="_blank">Ir a la Tienda del Mercado</a>
+</p>
 
 </body>
 </html>
