@@ -8,6 +8,7 @@ draft: false
 featured: false
 tags:
   - Ceviche
+  - Frío
 categories:
   - Comida
 image:
