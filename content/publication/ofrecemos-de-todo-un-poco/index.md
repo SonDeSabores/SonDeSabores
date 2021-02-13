@@ -57,6 +57,6 @@ Quisque ullamcorper, augue a tincidunt viverra, ipsum orci commodo justo, nec ma
 
 // <a href="#up" class="simplescrollup__button simplescrollup__button--hide"><img src="SonDeSabores/static/media/flechaparriba.png" id="btnup" class="simplescrollup__button simplescrollup__button--hide" alt="Parriba"/></a>
 
-<a href="#up" class="simplescrollup__button simplescrollup__button--hide"<img src="flechaparriba.png" id="btnup" class="simplescrollup__button simplescrollup__button--hide" alt="Parriba"/></a>
+<a href="#up" class="simplescrollup__button simplescrollup__button--hide"><img src="flechaparriba.png" id="btnup" class="simplescrollup__button simplescrollup__button--hide" alt="Parriba"/></a>
 
 <script src="simplescrollup.js"></script>
