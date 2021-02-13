@@ -26,7 +26,7 @@ url_video: ""
 title: Publicación destacada de prueba
 subtitle: Este es el subtítulo
 doi: ""
-featured: false
+featured: true
 tags: []
 categories:
   - Comida
