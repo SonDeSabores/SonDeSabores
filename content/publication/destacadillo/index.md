@@ -18,11 +18,11 @@ tags:
 categories:
   - Comida
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 summary: Resumen de lo que sea
-date: 2021-02-13T00:20:15.758Z
+date: 2021-02-13T00:25:02.102Z
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dapibus lacinia arcu eget euismod. Cras sagittis dolor sed ultrices consequat. Pellentesque vulputate felis euismod interdum sollicitudin. Vivamus luctus erat vel magna rutrum viverra. Sed ex erat, venenatis pharetra elit non, auctor eleifend ex. Quisque egestas volutpat porttitor. Etiam euismod convallis tellus, et pulvinar felis dapibus quis. In et elementum ligula.
 
