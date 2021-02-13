@@ -8,7 +8,7 @@ summary: "[Ver
 draft: false
 featured: false
 image:
-  filename: https://www.youtube.com/embed/mCSKnU-PxXA
+  filename: https://youtu.be/mCSKnU-PxXA
   focal_point: Smart
   preview_only: false
 ---
