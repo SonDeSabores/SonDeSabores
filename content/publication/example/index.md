@@ -26,7 +26,7 @@ url_video: ""
 title: Publicación destacada de prueba
 subtitle: Este es el subtítulo
 doi: ""
-featured: true
+featured: false
 tags: []
 categories:
   - Comida
@@ -36,7 +36,7 @@ image:
   focal_point: Smart
   preview_only: false
   filename: ""
-date: 2021-02-12T23:57:20.851Z
+date: 2021-02-13T00:10:14.227Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
