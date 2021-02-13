@@ -3,19 +3,16 @@ advanced:
   css_style: ""
   css_class: ""
 widget: blank
+active: true
+author: admin
 widget_id: about
 headless: true
-author: 'admin'
 weight: 20
-title: ""
+title: Son de Sabores
 subtitle: ""
-active: true
 design:
   columns: "1"
   background:
-    # gradient_start: DarkGreen
-    # gradient_end: ForestGreen
-    # text_color_light: true
     text_color_light: false
     image_darken: 0
     image: sds-portada-01.jpg
