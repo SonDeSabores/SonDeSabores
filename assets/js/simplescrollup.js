@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function(){
     // Variables
-    var buttonUp = document.querySelector('a[href="#up"]');
+ // var buttonUp = document.querySelector('a[href="#up"]');
+    var buttonUp = document.querySelector('img[id="btnup"]')
     var easings = {
         linear(t) {
             return t;
