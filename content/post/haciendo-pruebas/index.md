@@ -5,8 +5,7 @@ date: 2021-02-12T23:49:38.567Z
 summary: Esto es un resumen de la cosa.
 draft: false
 featured: false
-authors:
-  - SdS
+authors: []
 tags:
   - Fruta
   - Plátano
