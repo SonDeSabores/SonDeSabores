@@ -1,6 +1,6 @@
 ---
-title: Destacadillo
-subtitle: Alguna noticia que destaque
+title: Ofrecemos de todo un poco
+subtitle: Seguro que hay algo que te interesa probar
 publication_types:
   - "0"
 authors:
@@ -11,10 +11,14 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
   erat vel magna rutrum viverra. Sed ex erat, venenatis pharetra elit non,
   auctor eleifend ex. Quisque egestas volutpat porttitor. Etiam euismod
   convallis tellus, et pulvinar felis dapibus quis. In et elementum ligula.
+  Dentro y fuera; arriba y abajo.
 draft: false
 featured: true
 tags:
   - Fruta
+  - Postres
+  - Caliente
+  - Frío
 categories:
   - Comida
 image:
@@ -22,7 +26,7 @@ image:
   focal_point: Smart
   preview_only: false
 summary: Resumen de lo que sea
-date: 2021-02-13T00:25:02.102Z
+date: 2021-02-13T14:12:05.069Z
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dapibus lacinia arcu eget euismod. Cras sagittis dolor sed ultrices consequat. Pellentesque vulputate felis euismod interdum sollicitudin. Vivamus luctus erat vel magna rutrum viverra. Sed ex erat, venenatis pharetra elit non, auctor eleifend ex. Quisque egestas volutpat porttitor. Etiam euismod convallis tellus, et pulvinar felis dapibus quis. In et elementum ligula.
 
@@ -30,4 +34,4 @@ Cras lacinia enim odio, quis pretium turpis feugiat id. Suspendisse nisi quam, c
 
 ![](sds-google-maps.png "Localización")
 
-Quisque ullamcorper, augue a tincidunt viverra, ipsum orci commodo justo, nec maximus dui ipsum id dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam quis malesuada nibh, egestas imperdiet odio. Fusce non lectus egestas, porttitor sapien vel, mattis est. Vestibulum ultricies venenatis iaculis. Integer lectus ipsum, luctus consequat quam at, dapibus molestie elit. Aliquam ac mattis odio, sed suscipit neque. Vivamus iaculis leo ut erat vestibulum, vitae tristique lacus elementum. Morbi ultricies eleifend magna ut fringilla. Donec tortor massa, varius vel tincidunt eget, dapibus non mauris.
+Quisque ullamcorper, augue a tincidunt viverra, ipsum orci commodo justo, nec maximus dui ipsum id dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam quis malesuada nibh, egestas imperdiet odio. Fusce non lectus egestas, porttitor sapien vel, mattis est. Vestibulum ultricies venenatis iaculis. Integer lectus ipsum, luctus consequat quam at, dapibus molestie elit. Aliquam ac mattis odio, sed suscipit neque. Vivamus iaculis leo ut erat vestibulum, vitae tristique lacus elementum. Morbi ultricies eleifend magna ut fringilla. Donec tortor massa, varius vel tincidunt eget, dapibus non mauris. Y también en castellano (o español), francés, inglés y alemán.
