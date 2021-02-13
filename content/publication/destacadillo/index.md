@@ -2,7 +2,7 @@
 title: Destacadillo
 subtitle: Prueba
 publication_types:
-  - "4"
+  - "0"
 draft: false
 featured: true
 image:
