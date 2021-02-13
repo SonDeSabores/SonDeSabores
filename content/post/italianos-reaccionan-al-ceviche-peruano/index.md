@@ -6,6 +6,8 @@ date: 2021-02-13T14:22:01.594Z
 summary: ""
 draft: false
 featured: false
+authors:
+  - SdS
 tags:
   - Ceviche
   - Frío
