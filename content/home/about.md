@@ -8,7 +8,7 @@ author: admin
 widget_id: about
 headless: true
 weight: 20
-title: Son de Sabores
+title: ""
 subtitle: ""
 design:
   columns: "1"
