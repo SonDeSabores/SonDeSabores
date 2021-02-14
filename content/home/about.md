@@ -36,7 +36,7 @@ design:
   /* width:250px; */
   width: 100%;
   left: 0%;
-  height: 200px;  
+  height: 300px;  
   display: center;
   align-items: center;
   text-align: center;
@@ -119,12 +119,12 @@ design:
   En nuestra parada podrá encontrar comida peruana, tapas, helados, extractos de frutas naturales, batidos y zumos de frutas exóticas, postres caseros, cerveza Estrella Damm y Complot IPA, además de otras especialidades. Y todo tanto para consumir en las instalaciones del Mercado como para llevar
 </h1>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 
 <div id="main">
-<a class="button button1" href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI?usp=sharing" target="_blank">Productos y precios</a><br>
-<a class="button button2" href="tel:+34 651 94 55 87">Pedido telefónico</a><br>
-<a class="button button3" href="mailto:SonDeSaboresPeruanos@gmail.com" target="_blank">Enviar eMail</a><br>
+<a class="button button1" href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI?usp=sharing" target="_blank">Productos y precios</a><br><br>
+<a class="button button2" href="tel:+34 651 94 55 87">Pedido telefónico</a><br><br>
+<a class="button button3" href="mailto:SonDeSaboresPeruanos@gmail.com" target="_blank">Enviar eMail</a><br><br>
 <a class="button button4" href="http://vinaros.mercadosexcelentes.com/tienda/son-sabores" target="_blank">Tienda del Mercado</a>
 </div>
 
