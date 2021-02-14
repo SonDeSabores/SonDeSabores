@@ -73,11 +73,11 @@ design:
   transition: 0s
 }
 
-.button1 {width: 75%;}
-.button2 {width: 75%; background-color: #006600;}
-.button3 {width: 75%; background-color: #009900;}
-.button4 {width: 75%; background-color: #cc9900;}
-.button5 {width: 50%; background-color: #992600;}
+.button1 {width: 100px;}
+.button2 {width: 100px; background-color: #006600;}
+.button3 {width: 100px; background-color: #009900;}
+.button4 {width: 100px; background-color: #cc9900;}
+.button5 {width: 50%;   background-color: #992600;}
 </style>
 </head>
 
