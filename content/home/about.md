@@ -122,9 +122,9 @@ design:
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <div id="main">  
-<a href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI?usp=sharing" target="_blank"><button class="button button1">Productos y precios</button></a><br/><br/>
-<a href="tel:+34 651 94 55 87" target="_blank"><button class="button button2">Pedido telefónico</button></a><br/><br/>
-<a href="mailto:SonDeSaboresPeruanos@gmail.com" target="_blank"><button class="button button3">Enviar eMail</button></a><br/><br/>
+<a href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI?usp=sharing" target="_blank"><button class="button button1">Productos y precios</button></a><br/>
+<a href="tel:+34 651 94 55 87" target="_blank"><button class="button button2">Pedido telefónico</button></a><br/>
+<a href="mailto:SonDeSaboresPeruanos@gmail.com" target="_blank"><button class="button button3">Enviar eMail</button></a><br/>
 <a href="http://vinaros.mercadosexcelentes.com/tienda/son-sabores" target="_blank"><button class="button button4">Tienda del Mercado</button></a>
 </div>
 
