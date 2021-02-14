@@ -32,7 +32,8 @@ design:
 #main { /* Contenedor para el texto y los botones */
   padding: 0px 0px;
   position: absolute;
-  top: 65%;
+  /* top: 65%; */
+  top: 0px;
   /* width:250px; */
   width: 100%;
   left: 0%;
