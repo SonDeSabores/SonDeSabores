@@ -35,7 +35,7 @@ date: 2021-02-13T16:13:15.468Z
 	<style>
 	.simplescrollup__button {
 		position: fixed;
-		bottom: 1rem;
+		bottom: 2rem;
 		right: 1rem;
 		transition: 1s all;
 		z-index: 10000;
