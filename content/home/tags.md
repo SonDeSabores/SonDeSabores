@@ -1,0 +1,13 @@
+---
+widget: tag_cloud
+widget_id: Tags
+headless: true
+weight: 100
+title: Etiquetas
+active: true
+design:
+  columns: "2"
+  background:
+    text_color_light: false
+    image_darken: 0
+---
