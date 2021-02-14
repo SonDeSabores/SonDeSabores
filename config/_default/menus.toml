@@ -28,15 +28,15 @@
   url = "#featured"
   weight = 50
 
-[[main]]
-  name = "Etiquetas"
-  url = "#tag_cloud"
-  weight = 60
+# [[main]]
+#   name = "Etiquetas"
+#   url = "#tag_cloud"
+#   weight = 60
 
 [[main]]
   name = "Contacto"
   url = "#contact"
-  weight = 70
+  weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
