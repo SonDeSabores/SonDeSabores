@@ -32,11 +32,11 @@ design:
 #main { /* Contenedor para el texto y los botones */
   padding: 0px 0px;
   position: absolute;
-  top: 75%;
+  top: 55%;
   /* width:250px; */
   width: 100%;
   left: 0%;
-  height: 200px;  
+  height: 300px;  
   display: center;
   align-items: center;
   text-align: center;
