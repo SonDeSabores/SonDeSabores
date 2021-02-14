@@ -32,11 +32,11 @@ design:
 #main { /* Contenedor para el texto y los botones */
   padding: 0px 0px;
   position: absolute;
-  top: 55%;
+  top: 60%;
   /* width:250px; */
   width: 100%;
   left: 0%;
-  height: 300px;  
+  height: 200px;  
   display: center;
   align-items: center;
   text-align: center;
@@ -52,7 +52,7 @@ design:
 .button {
   background-color: #0099e6;
   position: relative;
-  top: 5%;
+  top: 10%;
   /* border: none; */
   border: 0px solid black;
   color: white;
