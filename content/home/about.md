@@ -104,7 +104,7 @@ design:
 
 <p style="background:#FF813E; color:black; font-weight:bold; padding:15px; border:3px solid #B34F19; margin-top:20px; margin-bottom:20px; text-align:center; font-size:22px; border-radius:10px;">COVID-19: Temporalmente cerrado debido al cierre total de la Hostelería decretado por parte de la Generalitat Valenciana desde el 21 de Enero de 2021
 <br/>
-<a class="button button2" href="https://www.google.com/search?q=COVID-19+%2BVinar%C3%B3s&oq=COVID19+%2BVinar%C3%B3s&aqs=chrome..69i57.27050j1j15&sourceid=chrome&ie=UTF-8" target="_blank">Información</a>
+<a href="https://www.google.com/search?q=COVID-19+%2BVinar%C3%B3s&oq=COVID19+%2BVinar%C3%B3s&aqs=chrome..69i57.27050j1j15&sourceid=chrome&ie=UTF-8" target="_blank"><button class="button button2">Información</button></a>
 </p>
 
 <h1 style="color:white; text-align:center; font-size:400%;">
@@ -121,11 +121,11 @@ design:
 
 <br/><br/><br/><br/><br/><br/><br/>
 
-<div id="main">
-<a class="button button1" href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI?usp=sharing" target="_blank">Productos y precios</a><br><br>
-<a class="button button2" href="tel:+34 651 94 55 87">Pedido telefónico</a><br><br>
-<a class="button button3" href="mailto:SonDeSaboresPeruanos@gmail.com" target="_blank">Enviar eMail</a><br><br>
-<a class="button button4" href="http://vinaros.mercadosexcelentes.com/tienda/son-sabores" target="_blank">Tienda del Mercado</a>
+<div id="main">  
+<a href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI?usp=sharing" target="_blank"><button class="button button1">Productos y precios</button></a>
+<a href="tel:+34 651 94 55 87" target="_blank"><button class="button button2">Pedido telefónico</button></a>
+<a href="mailto:SonDeSaboresPeruanos@gmail.com" target="_blank"><button class="button button3">Enviar eMail</button></a>
+<a href="http://vinaros.mercadosexcelentes.com/tienda/son-sabores" target="_blank"><button class="button button4">Tienda del Mercado</button></a>
 </div>
 
 </body>
