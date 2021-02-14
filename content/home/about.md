@@ -36,7 +36,7 @@ design:
   /* width:250px; */
   width: 100%;
   left: 0%;
-  height: 300px;  
+  height: 600px;  
   display: center;
   align-items: center;
   text-align: center;
