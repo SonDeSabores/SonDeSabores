@@ -22,7 +22,7 @@ design:
 	<style>
 	.simplescrollup__button {
 		position: fixed;
-		bottom: 1rem;
+		bottom: 4rem;
 		right: 1rem;
 		transition: 1s all;
 		z-index: 10000;
