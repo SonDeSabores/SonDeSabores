@@ -83,6 +83,8 @@ design:
   }
 </style>
 
+<p style="background:#FF813E; color:black; font-weight:bold; padding:15px; border:3px solid #B34F19; margin-top:20px; margin-bottom:20px; text-align:center; font-size:22px; border-radius:10px;"><b>COVID-19:</b> Temporalmente cerrado debido al cierre total de la Hostelería decretado por parte de la Generalitat Valenciana desde el 21 de Enero de 2021</p>
+
 <h1 style="color:white; text-align:center; font-size:400%;">
   <b>SON DE SABORES</b>
 </h1>
