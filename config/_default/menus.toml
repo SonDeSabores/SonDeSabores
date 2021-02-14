@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Etiquetas"
-  url = "#Tags"
+  url = "#tag_cloud"
   weight = 60
 
 [[main]]
