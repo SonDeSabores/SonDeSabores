@@ -93,10 +93,10 @@ design:
   transition: 0s
 }
 
-.button1 {width: 25%;}
-.button2 {width: 25%; background-color: #009900;}
-.button3 {width: 25%; background-color: #006600;}
-.button4 {width: 25%; background-color: #cc9900;}
+.button1 {width: 50%;}
+.button2 {width: 50%; background-color: #009900;}
+.button3 {width: 50%; background-color: #006600;}
+.button4 {width: 50%; background-color: #cc9900;}
 </style>
 </head>
 
