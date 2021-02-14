@@ -32,7 +32,7 @@ design:
 #main { /* Contenedor para el texto y los botones */
   padding: 0px 0px;
   position: absolute;
-  top: 70%;
+  top: 60%;
   /* width:250px; */
   width: 100%;
   left: 0%;
@@ -119,7 +119,7 @@ design:
   En nuestra parada podrá encontrar comida peruana, tapas, helados, extractos de frutas naturales, batidos y zumos de frutas exóticas, postres caseros, cerveza Estrella Damm y Complot IPA, además de otras especialidades. Y todo tanto para consumir en las instalaciones del Mercado como para llevar
 </h1>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 <div id="main">  
 <a href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI?usp=sharing" target="_blank"><button class="button button1">Productos y precios</button></a><br/>
