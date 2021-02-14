@@ -107,8 +107,6 @@ design:
 <a class="button button2" href="https://www.google.com/search?q=COVID-19+%2BVinar%C3%B3s&oq=COVID19+%2BVinar%C3%B3s&aqs=chrome..69i57.27050j1j15&sourceid=chrome&ie=UTF-8" target="_blank">Información</a>
 </p>
 
-<div id="main">
-
 <h1 style="color:white; text-align:center; font-size:400%;">
   <b>SON DE SABORES</b>
 </h1>
@@ -124,11 +122,11 @@ design:
 <br/>
 <br/>
 
+<div id="main">
 <a class="button button1" href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI?usp=sharing" target="_blank">Productos y precios</a><br>
 <a class="button button2" href="tel:+34 651 94 55 87">Pedido telefónico</a><br>
 <a class="button button3" href="mailto:SonDeSaboresPeruanos@gmail.com" target="_blank">Enviar eMail</a><br>
 <a class="button button4" href="http://vinaros.mercadosexcelentes.com/tienda/son-sabores" target="_blank">Tienda del Mercado</a>
-
 </div>
 
 </body>
