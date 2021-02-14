@@ -89,11 +89,9 @@ design:
 <br/>
 <a href="https://www.google.com/search?q=COVID-19+%2BVinar%C3%B3s&oq=COVID19+%2BVinar%C3%B3s&aqs=chrome..69i57.27050j1j15&sourceid=chrome&ie=UTF-8" target="_blank"><button class="button button5">Información</button></a><br/>
 
-<section>
   <p>
-    Nos vemos en <span id="days"></span> días, <span id="hours"></span> horas, <span id="minutes"></span> minutos y <span id="seconds"></span> segundos (más o menos)
+    Nos vemos en <span id="days"></span>  días, <span id="hours"></span>  horas, <span id="minutes"></span>  minutos y <span id="seconds"></span>  segundos (más o menos)
   </p>
-</section>
 
 </p>
 
