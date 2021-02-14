@@ -29,27 +29,6 @@ design:
 <head>
 
 <style>
-#main { /* Contenedor para el texto y los botones */
-  padding: 0px 0px;
-  position: absolute;
-  /* top: 65%; */
-  top: 0px;
-  /* width:250px; */
-  width: 100%;
-  left: 0%;
-  height: 600px;  
-  display: center;
-  align-items: center;
-  text-align: center;
-  border: 0px solid black;
-}
-
-#main div {
-   flex: 1;
-}
-</style>
-
-<style>
 .button {
   background-color: #0099e6;
   position: relative;
@@ -94,10 +73,10 @@ design:
   transition: 0s
 }
 
-.button1 {width: 50%;}
-.button2 {width: 50%; background-color: #009900;}
-.button3 {width: 50%; background-color: #006600;}
-.button4 {width: 50%; background-color: #cc9900;}
+.button1 {width: 75%;}
+.button2 {width: 75%; background-color: #009900;}
+.button3 {width: 75%; background-color: #006600;}
+.button4 {width: 75%; background-color: #cc9900;}
 </style>
 </head>
 
@@ -120,9 +99,7 @@ design:
   En nuestra parada podrá encontrar comida peruana, tapas, helados, extractos de frutas naturales, batidos y zumos de frutas exóticas, postres caseros, cerveza Estrella Damm y Complot IPA, además de otras especialidades. Y todo tanto para consumir en las instalaciones del Mercado como para llevar
 </h1>
 
-<br/><br/>
-
-<p style="background:#FF813E; color:black; font-weight:bold; padding:15px; border:3px solid #B34F19; margin-top:20px; margin-bottom:20px; text-align:center; font-size:22px; border-radius:10px;"
+<p style="padding:15px; border:0px solid black; margin-top:10px; margin-bottom:10px; text-align:center; font-size:22px; border-radius:0px;"
 <a href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI?usp=sharing" target="_blank"><button class="button button1">Productos y precios</button></a><br/>
 <a href="tel:+34 651 94 55 87"><button class="button button2">Pedido telefónico</button></a><br/>
 <a href="mailto:SonDeSaboresPeruanos@gmail.com" target="_blank"><button class="button button3">Enviar eMail</button></a><br/>
