@@ -24,68 +24,87 @@ design:
       - "0"
 ---
 
+<!DOCTYPE html>
 <html>
-<body>
+<head>
 
-<style type="text/css">
-  .boton_personalizado1{    
-    text-decoration: none;
-    padding: 6px;
-    font-weight: 600;
-    font-size: 20px;
-    color: black;
-    background-color: #C7E8F7;
-    border-radius: 6px;
-    border: 2px solid #000000;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  .boton_personalizado1:hover{
-    color: #C7E8F7;
-    background-color: #FFF8C2;
-  }
+<style>
+#main { /* Contenedor para los botones */
+  padding: 0px 0px;
+  position: absolute;
+  top: 10%;
+  /* width: 50%; */
+  left: 50%;
+  width:250px;
+  height: 250px;
+  display: center;
+  align-items: center;
+  text-align: center;
+  border: 1px solid black;
+}
 
-  .boton_personalizado2{
-    text-decoration: none;
-    padding: 6px;
-    font-weight: 600;
-    font-size: 20px;
-    color: #ffffff;
-    background-color: #62CC80;
-    border-radius: 6px;
-    border: 2px solid #000000;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  .boton_personalizado2:hover{
-    color: #62CC80;
-    background-color: #FFF8C2;
-  }
-
-  .boton_personalizado3{
-    text-decoration: none;
-    padding: 6px;
-    font-weight: 600;
-    font-size: 20px;
-    color: #ffffff;
-    background-color: #84A5AE;
-    border-radius: 6px;
-    border: 2px solid #000000;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  .boton_personalizado3:hover{
-    color: #84A5AE;
-    background-color: #FFF8C2;
-  }
+#main div {
+   flex: 1;
+}
 </style>
+
+<style>
+.button {
+  background-color: #0099e6;
+  position: relative;
+  top: 5%;
+  /* border: none; */
+  border: 0px solid black;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  text-align: center;
+  display: center;
+  border-radius: 6px;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition-duration: 0.4s;
+  overflow: hidden;
+}
+
+.button:hover{
+    color: black;
+    background-color: #FFF8C2;
+}
+  
+.button:after {
+  content: "";
+  background: #ffffff;
+  display: block;
+  position: absolute;
+  padding-top: 300%;
+  padding-left: 350%;
+  margin-left: -40px !important;
+  margin-top: -120%;
+  opacity: 0;
+  transition: all 0.8s
+}
+
+.button:active:after {
+  padding: 0;
+  margin: 0;
+  opacity: 1;
+  transition: 0s
+}
+
+.button1 {width: 98%;}
+.button2 {width: 98%; background-color: #009900;}
+.button3 {width: 98%; background-color: #006600;}
+.button4 {width: 98%; background-color: #cc9900;}
+</style>
+</head>
+
+<body>
 
 <p style="background:#FF813E; color:black; font-weight:bold; padding:15px; border:3px solid #B34F19; margin-top:20px; margin-bottom:20px; text-align:center; font-size:22px; border-radius:10px;">COVID-19: Temporalmente cerrado debido al cierre total de la Hostelería decretado por parte de la Generalitat Valenciana desde el 21 de Enero de 2021
 <br/>
-<a class="boton_personalizado3" href="https://www.google.com/search?q=COVID-19+%2BVinar%C3%B3s&oq=COVID19+%2BVinar%C3%B3s&aqs=chrome..69i57.27050j1j15&sourceid=chrome&ie=UTF-8" target="_blank">Información</a>
+<button class="button button2" href="https://www.google.com/search?q=COVID-19+%2BVinar%C3%B3s&oq=COVID19+%2BVinar%C3%B3s&aqs=chrome..69i57.27050j1j15&sourceid=chrome&ie=UTF-8" target="_blank">Información</button>
 </p>
 
 <h1 style="color:white; text-align:center; font-size:400%;">
@@ -103,15 +122,12 @@ design:
 <br/>
 <br/>
 
-<p style="font-family:lato,arial">
-<a class="boton_personalizado1" href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI?usp=sharing" target="_blank">Productos y precios</a>
-<br/>
-<a class="boton_personalizado2" href="tel:+34 651 94 55 87">Pedido telefónico</a>
-<br/>
-<a class="boton_personalizado3" href="mailto:SonDeSaboresPeruanos@gmail.com" target="_blank">Enviar eMail</a>
-<br/>
-<a class="boton_personalizado1" href="http://vinaros.mercadosexcelentes.com/tienda/son-sabores" target="_blank">Ir a la Tienda del Mercado</a>
-</p>
+<div id="main">
+<button class="button button1" href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI?usp=sharing" target="_blank">Productos y precios</button><br>
+<button class="button button2" href="tel:+34 651 94 55 87">Pedido telefónico</button><br>
+<button class="button button3" href="mailto:SonDeSaboresPeruanos@gmail.com" target="_blank">Enviar eMail</button><br>
+<button class="button button4" href="http://vinaros.mercadosexcelentes.com/tienda/son-sabores" target="_blank">Tienda del Mercado</button>
+</div>
 
 </body>
 </html>
