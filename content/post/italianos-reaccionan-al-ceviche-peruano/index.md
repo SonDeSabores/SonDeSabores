@@ -33,7 +33,7 @@ El ceviche de este vídeo, donde  puede observarse la reacción de varios italia
 	<style>
 	.simplescrollup__button {
 		position: fixed;
-		bottom: 1rem;
+		bottom: 2rem;
 		right: 1rem;
 		transition: 1s all;
 		z-index: 10000;
