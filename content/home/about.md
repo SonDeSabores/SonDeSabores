@@ -26,8 +26,7 @@ design:
 
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8"/>
+  <head>    
     <title>Son de Sabores</title>
   </head>
 
@@ -87,7 +86,7 @@ design:
 
 <p style="background:#FF813E; color:black; font-weight:bold; padding:15px; border:3px solid #B34F19; margin-top:20px; margin-bottom:20px; text-align:center; font-size:22px; border-radius:10px;">COVID-19: Temporalmente cerrado debido al cierre total de la Hostelería decretado por parte de la Generalitat Valenciana desde el 21 de Enero de 2021
 <br/>
-Nos vemos en <span id="days"></span>  días, <span id="hours"></span>  horas, <span id="minutes"></span>  minutos y <span id="seconds"></span>  segundos (más o menos)
+Nos vemos en <span id="days"></span> días, <span id="hours"></span> horas, <span id="minutes"></span> minutos y <span id="seconds"></span> segundos (más o menos)
 <br/>
 <a href="https://www.google.com/search?q=COVID-19+%2BVinar%C3%B3s&oq=COVID19+%2BVinar%C3%B3s&aqs=chrome..69i57.27050j1j15&sourceid=chrome&ie=UTF-8" target="_blank"><button class="button button5">Información</button></a><br/>
 
@@ -113,8 +112,7 @@ Nos vemos en <span id="days"></span>  días, <span id="hours"></span>  horas, <s
 </p>
 
 <script>
-  document.addEventListener('DOMContentLoaded', () => { 
-
+  document.addEventListener('DOMContentLoaded', () => {
   //===
   // VARIABLES
   //===
@@ -129,7 +127,6 @@ Nos vemos en <span id="days"></span>  días, <span id="hours"></span>  horas, <s
   const MILLISECONDS_OF_A_MINUTE = MILLISECONDS_OF_A_SECOND * 60;
   const MILLISECONDS_OF_A_HOUR = MILLISECONDS_OF_A_MINUTE * 60;
   const MILLISECONDS_OF_A_DAY = MILLISECONDS_OF_A_HOUR * 24
-
 
   /* Method that updates the countdown and the sample */
 
@@ -150,13 +147,13 @@ Nos vemos en <span id="days"></span>  días, <span id="hours"></span>  horas, <s
     SPAN_SECONDS.textContent = REMAINING_SECONDS;
     }
 
-        
     // INIT
     updateCountdown();
     // Refresh every second
     setInterval(updateCountdown, MILLISECONDS_OF_A_SECOND);
     });
-  </script>
+
+</script>
 
 </body>
 </html>
