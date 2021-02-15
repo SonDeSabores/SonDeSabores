@@ -8,13 +8,15 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
+# Para procesar los ficheros del directorio fotos, justo después de los --- de abajo, poner esto: {{< gallery album="fotos" >}}
+
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
 ---
 
-{{< gallery album="fotos" >}}
+
 
 <html>
 <head>
