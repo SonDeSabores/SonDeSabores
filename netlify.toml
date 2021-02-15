@@ -10,6 +10,7 @@
   HUGO_ENV = "production"
 
 [context.deploy-preview]
+  ignoreErrors = ["error-remote-getjson"]
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy]
