@@ -6,7 +6,8 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Tiempo en milisegundos para realizar el compilado. Atención a los directorios con muchos ficheros de imágenes. Por defecto, 10000 (10 segundos).
-timeout = 120000
+# 5 minutos
+timeout = 300000
 
 # Title of your site
 title = "Son de Sabores"
