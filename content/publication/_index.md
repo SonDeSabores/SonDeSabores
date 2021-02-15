@@ -1,6 +1,7 @@
 ---
 title: Publications
 cms_exclude: true
+reading_time: true  # Show estimated reading time?
 
 # View.
 #   1 = List
