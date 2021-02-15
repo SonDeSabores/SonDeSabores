@@ -1,8 +1,7 @@
 [build]
   command = "hugo --gc --minify -b $URL"
   publish = "public"  
-  Timeout = 20000
-  
+
 [build.environment]
   HUGO_VERSION = "0.80.0"
   HUGO_ENABLEGITINFO = "true"
