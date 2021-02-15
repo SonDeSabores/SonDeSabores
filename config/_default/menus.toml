@@ -34,6 +34,11 @@
 #   weight = 60
 
 [[main]]
+  name = "Galería de fotos"  # A link title for your page.
+  url = "Galeriadefotos/"  # The URL of your page.
+  weight = 60  # The position of your page in the menu.
+
+[[main]]
   name = "Contacto"
   url = "#contact"
   weight = 80
