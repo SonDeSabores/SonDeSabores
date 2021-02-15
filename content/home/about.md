@@ -117,7 +117,8 @@ Nos vemos en <span id="days"></span>d., <span id="hours"></span>h., <span id="mi
   //===
   // VARIABLES
   //===
-  const DATE_TARGET = new Date('03/01/2021 10:00 AM');
+  // 02 de Marzo de 2011 a las 11:00 de la mañana
+  const DATE_TARGET = new Date('03/02/2021 11:00 AM');
   // DOM for render
   const SPAN_DAYS = document.querySelector('span#days');
   const SPAN_HOURS = document.querySelector('span#hours');
