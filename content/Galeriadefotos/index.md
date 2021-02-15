@@ -9,6 +9,8 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 # Para procesar los ficheros del directorio fotos, justo después de los --- de abajo, poner esto: {{< gallery album="fotos" >}}
+# Quitarlo mientras se esté modificando cualquier otra parte de la página web, ya que de lo contrario tardará demasiado en procresarlo todo
+# Ver el parámetro Timeout = 300000 del fichero \condig\_default\config.toml. Es necesario para poder procesar muchos ficheros
 
 # Optional header image (relative to `static/media/` folder).
 header:
@@ -16,7 +18,7 @@ header:
   image: ""
 ---
 
-
+{{< gallery album="fotos" >}}
 
 <html>
 <head>
