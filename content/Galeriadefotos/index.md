@@ -37,7 +37,7 @@ header:
 </head>
 <body>
 
-<img src="../../flechaparriba.png" id="btnup" class="simplescrollup__button simplescrollup__button- hide" alt="Parriba">
+<img src="../flechaparriba.png" id="btnup" class="simplescrollup__button simplescrollup__button- hide" alt="Parriba">
 <script src="simplescrollup.js"></script>
 
 </body>
