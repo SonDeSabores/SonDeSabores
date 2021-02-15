@@ -13,5 +13,4 @@ title: Galería de Fotos
 subtitle:
 ---
 
-# {{< gallery >}}
 {{< gallery album="gallery" >}}
