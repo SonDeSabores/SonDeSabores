@@ -18,7 +18,7 @@ header:
   image: ""
 ---
 
-
+{{< gallery album="fotos" >}}
 
 <html>
 <head>
