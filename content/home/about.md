@@ -86,9 +86,6 @@ design:
 </style>
 
 <body>
-<!-- Politica de cookies -->
-  <script id="CookieDeclaration" src="https://consent.cookiebot.com/77c7c238-0c79-4e60-8914-2b7cbf72d5a4/cd.js" type="text/javascript" async></script>
-
 <!-- Descomentar lo siguiente cuando sea necesario -->
 <p style="background:#FF813E; color:black; font-weight:bold; padding:15px; border:3px solid #B34F19; margin-top:5px; margin-bottom:5px; text-align:center; font-size:22px; border-radius:10px;">COVID-19: Temporalmente cerrado debido al cierre total de la Hostelería decretado por parte de la Generalitat Valenciana desde el 21 de Enero de 2021
 <br/>
