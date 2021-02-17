@@ -17,6 +17,8 @@ design:
   columns: "2"
 ---
 
+Ver en [*Google Maps*](https://www.google.com/maps/place/Son+de+Sabores/@40.470255,0.47702,19z/data=!4m5!3m4!1s0x0:0x3d39b5d76862d8d4!8m2!3d40.4701768!4d0.4770107?hl=es).
+
 <html>
     <head>
 	<style>
@@ -36,10 +38,12 @@ design:
 	}
 	</style>
     </head>
-    <body>
+​    <body>
+
         <!-- Contenido HTML -->
-	<img src="../flechaparriba.png" id="btnup" class="simplescrollup__button simplescrollup__button- hide" alt="Parriba">
-	<script src="simplescrollup.js"></script>
+    
+    <img src="../flechaparriba.png" id="btnup" class="simplescrollup__button simplescrollup__button- hide" alt="Parriba">
+    <script src="simplescrollup.js"></script>
     </body>
 
 </html>
