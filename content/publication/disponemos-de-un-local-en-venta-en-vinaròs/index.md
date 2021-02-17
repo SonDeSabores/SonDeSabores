@@ -6,7 +6,7 @@ publication_types:
 authors:
   - SdS
 draft: false
-featured: false
+featured: true
 categories:
   - Varios
 image:
@@ -56,4 +56,6 @@ Para más información, llamar al teléfono [651 94 55 87](<tel:+34 651 94 55 87
 ![](sds-local-03.jpg)
 
 <img src="../../flechaparriba.png" id="btnup" class="simplescrollup__button simplescrollup__button- hide" alt="Parriba">
+
 <script src="simplescrollup.js"></script>
+
