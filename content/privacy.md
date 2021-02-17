@@ -1,7 +1,7 @@
 ---
-title: Privacy Policy
+title: Acerca de las cookies
 date: "2018-06-28T00:00:00+01:00"
-draft: true
+draft: false
 share: false
 commentable: false
 editable: false
@@ -12,4 +12,10 @@ header:
   image: ""
 ---
 
-Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+<html>
+
+<body>
+<script id="CookieDeclaration" src="https://consent.cookiebot.com/77c7c238-0c79-4e60-8914-2b7cbf72d5a4/cd.js" type="text/javascript" async></script>
+</body>
+
+</html>
