@@ -121,7 +121,7 @@ Las categorías de datos personales que trata el Titular son:
 
 **Destinatarios de datos personales**
 
-*Google Analytics*. Es un servicio de analítica web prestado por Google, Inc., una compañía de Delaware cuya oficina principal está en 1600 Amphitheatre Parkway, Mountain View (California), CA 94043, Estados Unidos (*“Google”*). Encontrarás más información en: https://analytics.google.com
+*Google Analytics*. Es un servicio de analítica web prestado por Google, Inc., una compañía de Delaware cuya oficina principal está en 1600 Amphitheatre Parkway, Mountain View (California), CA 94043, Estados Unidos (*“Google”*). Encontrarás más información [*aquí*](https://es.wikipedia.org/wiki/Google_Analytics/).
 
 *Google Analytics* utiliza cookies para ayudar al Titular a analizar el uso que hacen los usuarios del sitio web. La información que genera la cookie acerca del uso del sitio web (incluyendo tu dirección IP) será directamente transmitida y archivada por Google en los servidores de Estados Unidos.
 
