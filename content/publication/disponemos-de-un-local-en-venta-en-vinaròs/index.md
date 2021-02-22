@@ -39,7 +39,7 @@ date: 2021-02-17T16:54:37.051Z
 
 Vendemos un local en Vinaròs ubicado cerca del mar, en calle perpendicular al Paseo Marítimo.
 
-Cuenta con 106 m2 útiles, tiene barra de bar y campana industrial en la cocina.
+Cuenta con 106 m<sup>2</sup> útiles, tiene barra de bar y campana industrial en la cocina.
 
 Se encuentra dentro del Proyecto del Ayuntamiento para afianzar la zona turística.
 
@@ -47,15 +47,10 @@ Para más información, llamar al teléfono [651 94 55 87](<tel:+34 651 94 55 87
 
 ![](sds-local-01.jpg)
 
-
-
 ![](sds-local-02.jpg)
-
-
 
 ![](sds-local-03.jpg)
 
 <img src="../../flechaparriba.png" id="btnup" class="simplescrollup__button simplescrollup__button- hide" alt="Parriba">
 
 <script src="simplescrollup.js"></script>
-
