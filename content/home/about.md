@@ -87,10 +87,14 @@ design:
 
 <body>
 <!-- Descomentar lo siguiente cuando sea necesario -->
-<p style="background:#FF813E; color:black; font-weight:bold; padding:15px; border:3px solid #B34F19; margin-top:5px; margin-bottom:5px; text-align:center; font-size:22px; border-radius:10px;">COVID-19: Temporalmente cerrado debido al cierre total de la Hostelería decretado por parte de la Generalitat Valenciana desde el 21 de Enero de 2021
+<p style="background:#FF813E; color:black; font-weight:bold; padding:15px; border:3px solid #B34F19; margin-top:5px; margin-bottom:5px; text-align:center; font-size:22px; border-radius:10px;">COVID-19: Temporalmente cerrado hasta que disminuya a niveles más seguros la incidencia de contagios, y con el fin de contribuir a que así sea
 <br/>
 <a href="https://www.google.com/search?q=COVID-19+%2BVinar%C3%B3s&oq=COVID19+%2BVinar%C3%B3s&aqs=chrome..69i57.27050j1j15&sourceid=chrome&ie=UTF-8" target="_blank"><button class="button button5">Información</button></a><br/>
+
+<!-- Descomentar lo siguiente cuando sea necesario -->
+/*
 Nos vemos en <span id="days"></span>d., <span id="hours"></span>h., <span id="minutes"></span>m. y <span id="seconds"></span>s. (más o menos)
+*/
 </p>
 
 
@@ -118,8 +122,8 @@ Nos vemos en <span id="days"></span>d., <span id="hours"></span>h., <span id="mi
   //===
   // VARIABLES
   //===
-  // 02 de Marzo de 2011 a las 11:00 de la mañana
-  const DATE_TARGET = new Date('03/02/2021 11:00 AM');
+  // 15 de Marzo de 2011 a las 11:00 de la mañana
+  const DATE_TARGET = new Date('15/02/2021 11:00 AM');
   // DOM for render
   const SPAN_DAYS = document.querySelector('span#days');
   const SPAN_HOURS = document.querySelector('span#hours');
@@ -141,7 +145,7 @@ Nos vemos en <span id="days"></span>d., <span id="hours"></span>h., <span id="mi
     const REMAINING_HOURS = Math.floor((DURATION % MILLISECONDS_OF_A_DAY) / MILLISECONDS_OF_A_HOUR);
     const REMAINING_MINUTES = Math.floor((DURATION % MILLISECONDS_OF_A_HOUR) / MILLISECONDS_OF_A_MINUTE);
     const REMAINING_SECONDS = Math.floor((DURATION % MILLISECONDS_OF_A_MINUTE) / MILLISECONDS_OF_A_SECOND);
-    // Thanks Pablo Monteserín (https://pablomonteserin.com/cuenta-regresiva/)
+    // Thanks to Pablo Monteserín (https://pablomonteserin.com/cuenta-regresiva/)
 
     // Render
     SPAN_DAYS.textContent = REMAINING_DAYS;
