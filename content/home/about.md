@@ -108,6 +108,10 @@ design:
   En nuestra parada podrá encontrar comida peruana, tapas, helados, extractos de frutas naturales, batidos y zumos de frutas exóticas, postres caseros, cerveza Estrella Damm y Complot IPA, además de otras especialidades. Y todo tanto para consumir en las instalaciones del Mercado como para llevar
 </h1>
 
+<h1 style="color:white; text-align:center; font-size:150%;">
+  <b>Horario temporal debido a la COVID-19: Jueves a Sábado de 10:00 a 15:00</b>
+</h1>
+
 <p style="padding:15px; border:0px solid black; margin-top:10px; margin-bottom:10px; text-align:center; font-size:22px; border-radius:0px;">
 <a href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI" target="_blank"><button class="button button1">Carta y precios</button></a><br/>
 <a href="tel:+34 651 94 55 87"><button class="button button2">Pedido telefónico</button></a><br/>
