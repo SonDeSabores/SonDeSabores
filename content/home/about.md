@@ -93,6 +93,8 @@ design:
 
 <!-- Descomentar lo siguiente cuando sea necesario -->
 <!-- Nos vemos en <span id="days"></span>d., <span id="hours"></span>h., <span id="minutes"></span>m. y <span id="seconds"></span>s. (más o menos) -->
+
+<!-- Tienda Online Mercado (anterior): http://vinaros.mercadosexcelentes.com/tienda/son-sabores -->
 </p>
 
 
@@ -116,7 +118,7 @@ design:
 <a href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI" target="_blank"><button class="button button1">Carta y precios</button></a><br/>
 <a href="tel:+34 651 50 05 85"><button class="button button2">Pedido telefónico</button></a><br/>
 <a href="mailto:SonDeSaboresPeruanos@gmail.com" target="_blank"><button class="button button3">Enviar eMail</button></a><br/>
-<a href="http://vinaros.mercadosexcelentes.com/tienda/son-sabores" target="_blank"><button class="button button4">Tienda en el Mercado</button></a>
+<a href="https://vendaenlinia.mercatdevinaros.es/tienda/son-sabores" target="_blank"><button class="button button4">Tienda en el Mercado</button></a>
 </p>
 
 <script>
