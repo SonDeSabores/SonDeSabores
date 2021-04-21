@@ -42,7 +42,11 @@ header:
 </head>
 <body>
 
-onload="window.scrollTo(0,document.body.scrollHeight);"
+<script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function(event) {
+window.scrollTo(0,document.body.scrollHeight);
+});
+</script>
 
 <img src="../flechaparriba.png" id="btnup" class="simplescrollup__button simplescrollup__button- hide" alt="Parriba">
 <script src="simplescrollup.js"></script>
