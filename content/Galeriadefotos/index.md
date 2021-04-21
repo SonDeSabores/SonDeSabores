@@ -42,6 +42,8 @@ header:
 </head>
 <body>
 
+onload="window.scrollTo(0,document.body.scrollHeight);"
+
 <img src="../flechaparriba.png" id="btnup" class="simplescrollup__button simplescrollup__button- hide" alt="Parriba">
 <script src="simplescrollup.js"></script>
 
