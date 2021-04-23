@@ -110,7 +110,7 @@ design:
   En nuestra parada podrá encontrar comida peruana, tapas, helados, extractos de frutas naturales, batidos y zumos de frutas exóticas, postres caseros, cerveza Estrella Damm y Complot IPA, además de otras especialidades. Y todo tanto para consumir en las instalaciones del Mercado como para llevar
 </h1>
 
-<h1 style="color:white; text-align:center; font-size:150%;">
+<h1 style="color:white; text-align:center; font-size:130%;">
   <b>Horario temporal hasta que la incidencia <a href="https://www.google.com/search?q=%22covid-19%22+%2Bvinar%C3%B2s" style="color:#BDB76B" target="_blank">COVID-19</a> baje a niveles más seguros:<br/>
 Jueves y Viernes: 10:00-14:00 y 17:30-20:00<br/>
 Sábados: 10:00-14:00
