@@ -111,7 +111,10 @@ design:
 </h1>
 
 <h1 style="color:white; text-align:center; font-size:150%;">
-  <b>Horario temporal debido a la <a href="https://www.google.com/search?q=%22covid-19%22+%2Bvinar%C3%B2s" style="color:#BDB76B" target="_blank">COVID-19</a>:<br/>Jueves a Sábado de 10:00 a 14:00</b>
+  <b>Horario temporal hasta que la incidencia <a href="https://www.google.com/search?q=%22covid-19%22+%2Bvinar%C3%B2s" style="color:#BDB76B" target="_blank">COVID-19</a> baje a niveles más seguros:<br/>
+Jueves y Viernes: 10:00-14:00 y 17:30-20:00<br/>
+Sábados: 10:00-14:00
+</b>
 </h1>
 
 <p style="padding:15px; border:0px solid black; margin-top:10px; margin-bottom:10px; text-align:center; font-size:22px; border-radius:0px;">
