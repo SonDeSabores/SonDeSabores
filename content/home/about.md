@@ -112,6 +112,26 @@ design:
 <!--    background-color: #f1f1f1; -->
 <!-- } -->
 
+.ColorAnimado {
+  text-align: center;
+  font-size: 3em;
+  line-height: 110%;
+  font-weight: bold;
+  background: linear-gradient(to right, #fff 20%, #bada55 30%, #bada44 70%, #fff 80%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  background-size: 200% auto;
+  animation: textShine 7s ease-in-out infinite alternate;
+}
+
+@keyframes textShine {
+  to {
+    background-position: 200%;
+  }
+}
+
 </style>
 
 <body>
@@ -131,7 +151,7 @@ design:
 <!--   <b>SON DE SABORES</b> -->
 <!-- </h1> -->
 
-<div class="hit-the-floor">SON DE SABORES</div>
+<h1 class="ColorAnimado">SON DE SABORES</h1>
 
 <h1 style="color:white; text-align:center; font-size:150%;">
   <b>Comida Peruana en el Mercado Municipal de Vinaròs (Castellón)</b>
