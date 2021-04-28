@@ -85,34 +85,6 @@ design:
 .button5 {width: 50%;   background-color: #992600;}
 </style>
 
-.hit-the-floor {
-  color: #fff;
-  font-size: 7em;
-  font-weight: bold;
-  font-family: Helvetica;
-  text-shadow: 
-    0 1px 0 #ccc, 
-    0 2px 0 #c9c9c9, 
-    0 3px 0 #bbb, 
-    0 4px 0 #b9b9b9, 
-    0 5px 0 #aaa, 
-    0 6px 1px rgba(0,0,0,.1), 
-    0 0 5px rgba(0,0,0,.1), 
-    0 1px 3px rgba(0,0,0,.3), 
-    0 3px 5px rgba(0,0,0,.2), 
-    0 5px 10px rgba(0,0,0,.25), 
-    0 10px 10px rgba(0,0,0,.2), 
-    0 20px 20px rgba(0,0,0,.15);
-}
-
-.hit-the-floor {
-  text-align: center;
-}
-
-<!-- body { -->
-<!--    background-color: #f1f1f1; -->
-<!-- } -->
-
 <body>
 <!-- Descomentar lo siguiente cuando sea necesario -->
 <!--<p style="background:#FF813E; color:black; font-weight:bold; padding:15px; border:3px solid #B34F19; margin-top:5px; margin-bottom:5px; text-align:center; font-size:22px; border-radius:10px;">COVID-19: Temporalmente cerrado hasta que disminuya a niveles más seguros la incidencia de contagios, y con el fin de contribuir a que así sea
@@ -200,4 +172,33 @@ Sábados: 10:00-14:00
 </script>
 
 </body>
+
+.hit-the-floor {
+  color: #fff;
+  font-size: 7em;
+  font-weight: bold;
+  font-family: Helvetica;
+  text-shadow: 
+    0 1px 0 #ccc, 
+    0 2px 0 #c9c9c9, 
+    0 3px 0 #bbb, 
+    0 4px 0 #b9b9b9, 
+    0 5px 0 #aaa, 
+    0 6px 1px rgba(0,0,0,.1), 
+    0 0 5px rgba(0,0,0,.1), 
+    0 1px 3px rgba(0,0,0,.3), 
+    0 3px 5px rgba(0,0,0,.2), 
+    0 5px 10px rgba(0,0,0,.25), 
+    0 10px 10px rgba(0,0,0,.2), 
+    0 20px 20px rgba(0,0,0,.15);
+}
+
+.hit-the-floor {
+  text-align: center;
+}
+
+<!-- body { -->
+<!--    background-color: #f1f1f1; -->
+<!-- } -->
+
 </html>
