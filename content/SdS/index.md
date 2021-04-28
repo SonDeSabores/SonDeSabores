@@ -1,18 +1,19 @@
 ---
 title: SdS
-summary: Son de Sabores
-date: "2021-02-01T00:00:00Z"
+date: "2021-02-17T00:00:00+01:00"
+draft: false
+share: false
+commentable: false
+editable: false
 
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
-
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ""
+  image: ""
 ---
 
-<!-- Código de James Mellers -->
 <html>
-<head>
+<head>    
     <meta charset="UTF-8">
     <title>Son de Sabores</title>
     <style>	
@@ -72,6 +73,7 @@ comments: false  # Show comments?
 </head>
 
 <body>
+	<!-- Código de James Mellers -->
 	<!-- <a >Son de Sabores</a> -->
 	<a >&copy; 2021 SdS</a>
 </body>
