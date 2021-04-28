@@ -151,12 +151,14 @@ design:
 <!--   <b>SON DE SABORES</b> -->
 <!-- </h1> -->
 
-<!-- <h1 class="ColorAnimado">SON DE SABORES</h1> -->
+<h1 class="ColorAnimado">SON DE SABORES</h1>
 
+<!--
 <h1 style="text-align:center; font-size:150%;"
 <b><a href="https://son-de-sabores.netlify.app/SdS" target="_blank" class="ColorAnimado">SON DE SABORES
 </a></b>
 </h1>
+-->
 
 <h1 style="color:white; text-align:center; font-size:150%;">
   <b>Comida Peruana en el Mercado Municipal de Vinaròs (Castellón)</b>
