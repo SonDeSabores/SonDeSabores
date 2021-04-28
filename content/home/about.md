@@ -87,7 +87,7 @@ design:
 
 .hit-the-floor {
   color: #fff;
-  font-size: 7em;
+  font-size: 3em;
   font-weight: bold;
   font-family: Helvetica;
   text-shadow: 
