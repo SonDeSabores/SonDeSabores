@@ -13,10 +13,8 @@ header:
 ---
 
 <html>
-<head>    
-    <meta charset="UTF-8">
-    <title>Son de Sabores</title>
-    <style>	
+<head>
+    <style>
         @keyframes tipsy {
             0 {
                 transform: translateX(-50%) translateY(-50%) rotate(0deg);
@@ -25,12 +23,12 @@ header:
                 transform: translateX(-50%) translateY(-50%) rotate(360deg);
             }
         }
-        
+
         body {
             font-family: helvetica, arial, sans-serif;
             background-color: #2e2e31;
         }
-        
+
         a {
             display: block;
             color: #fffbf1;
@@ -45,7 +43,7 @@ header:
             left: 50%;
             transform: translateX(-50%) translateY(-50%);
         }
-        
+
         a:before,
         a:after {
             content: '';
@@ -59,12 +57,12 @@ header:
             transform: translateX(-50%) translateY(-50%) rotate(0deg);
             animation: 10s infinite alternate ease-in-out tipsy;
         }
-        
+
         a:before {
             border-color: #d9524a #d9524a rgba(0, 0, 0, 0) rgba(0, 0, 0, 0);
             z-index: -1;
         }
-        
+
         a:after {
             border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #d9524a #d9524a;
             box-shadow: 25px 25px 25px rgba(46, 46, 49, .8);
