@@ -3,6 +3,7 @@ title: Celebraciones
 subtitle: Menús para un día especial, cumpleaños, celebraciones, etc.
 publication_types:
   - "0"
+abstract: Menús para un día especial, cumpleaños, celebraciones, etc.
 draft: false
 featured: true
 tags:
