@@ -1,5 +1,6 @@
 ---
 title: Celebraciones
+subtitle: Menús para un día especial, cumpleaños, celebraciones, etc.
 publication_types:
   - "0"
 draft: false
