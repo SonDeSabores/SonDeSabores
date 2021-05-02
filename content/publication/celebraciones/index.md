@@ -10,7 +10,7 @@ tags:
   - Celebraciones
   - Cumpleaños
 image:
-  filename: featured.jpg
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 summary: Menús para un día especial, cumpleaños, reuniones, etc.
@@ -38,8 +38,6 @@ date: 2021-05-01T18:02:57.746Z
 <body>
 
 
-
-![](sds-celebraciones.png)
 
 Puede ponerse en contacto con nosotros a través del teléfono o el correo electrónico si desea que le preparemos un menú degustación para un día especial, cumpleaños, celebración, etc. Así usted y los suyos podrán probar varias especialidades típicas peruanas. Puede reservar mesas ó bien se le prepara todo para llevar. Avísenos con dos días de anticipación, por favor.
 
