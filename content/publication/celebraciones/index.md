@@ -1,6 +1,6 @@
 ---
 title: Celebraciones
-subtitle: Menús para un día especial, cumpleaños, celebraciones, etc.
+subtitle: Menús para un día especial, cumpleaños, reuniones, etc.
 publication_types:
   - "0"
 abstract: ""
@@ -10,10 +10,10 @@ tags:
   - Celebraciones
   - Cumpleaños
 image:
-  filename: ""
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
-summary: Menús para un día especial, cumpleaños, celebraciones, etc.
+summary: Menús para un día especial, cumpleaños, reuniones, etc.
 date: 2021-05-01T18:02:57.746Z
 ---
 <html>
