@@ -134,6 +134,8 @@ design:
 
 </style>
 
+<script src="particles.min.js" type="text/javascript"></script>
+
 <body>
 <!-- Descomentar lo siguiente cuando sea necesario -->
 <!--<p style="background:#FF813E; color:black; font-weight:bold; padding:15px; border:3px solid #B34F19; margin-top:5px; margin-bottom:5px; text-align:center; font-size:22px; border-radius:10px;">COVID-19: Temporalmente cerrado hasta que disminuya a niveles más seguros la incidencia de contagios, y con el fin de contribuir a que así sea
@@ -150,6 +152,8 @@ design:
 <!-- <h1 style="color:white; text-align:center; font-size:400%;"> -->
 <!--   <b>SON DE SABORES</b> -->
 <!-- </h1> -->
+
+<div id="web"><canvas class="particles-js-canvas-el" width="1263" height="330" style="width: 100%; height: 100%;"></canvas></div>
 
 <h1 class="ColorAnimado">SON DE SABORES</h1>
 
@@ -183,6 +187,8 @@ Sábados: 10:00 - 14:00
 <a href="mailto:SonDeSaboresPeruanos@gmail.com" target="_blank"><button class="button button3">Enviar eMail</button></a><br/>
 <a href="https://vendaenlinia.mercatdevinaros.es/tienda/son-sabores" target="_blank"><button class="button button4">Tienda en el Mercado</button></a>
 </p>
+
+<script src="web.js" type="text/javascript"></script>
 
 <script>
   document.addEventListener('DOMContentLoaded', () => {
