@@ -23,6 +23,7 @@ design:
 
 <html>
 
+<link rel="stylesheet" href="style.scss">
 <script src="particles.min.js" type="text/javascript"></script>
 
 <head>
