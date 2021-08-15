@@ -22,6 +22,9 @@ design:
 - Ver [*reseñas de clientes*](https://www.google.com/search?hl=es-AU&gl=au&q=Son+de+Sabores,+Plaza+de+San+Agustín,+8+Mercado+Municipal+de,+Vinaroz&ludocid=4411757246760016084&#lrd=0x12a04f2be279daf9:0x3d39b5d76862d8d4,1,,,).
 
 <html>
+
+<script src="particles.min.js" type="text/javascript"></script>
+
 <head>
 	<style>
 	.simplescrollup__button {
@@ -43,8 +46,14 @@ design:
 
 
 <body>
+
+<div id="web"><canvas class="particles-js-canvas-el" width="1263" height="330" style="width: 100%; height: 100%;"></canvas></div>
+
 <img src="../flechaparriba.png" id="btnup" class="simplescrollup__button simplescrollup__button- hide" alt="Parriba">
 <script src="simplescrollup.js"></script>
+
+<script src="web.js" type="text/javascript"></script>
+
 </body>
 
 </html>
