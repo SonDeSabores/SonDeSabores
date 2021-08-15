@@ -23,9 +23,6 @@ design:
 
 <html>
 
-<link rel="stylesheet" href="style.scss">
-<script src="particles.min.js" type="text/javascript"></script>
-
 <head>
 	<style>
 	.simplescrollup__button {
@@ -48,12 +45,8 @@ design:
 
 <body>
 
-<div id="web"><canvas class="particles-js-canvas-el" width="1263" height="330" style="width: 100%; height: 100%;"></canvas></div>
-
 <img src="../flechaparriba.png" id="btnup" class="simplescrollup__button simplescrollup__button- hide" alt="Parriba">
 <script src="simplescrollup.js"></script>
-
-<script src="web.js" type="text/javascript"></script>
 
 </body>
 
