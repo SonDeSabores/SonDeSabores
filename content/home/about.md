@@ -182,7 +182,7 @@ Sábados: 10:00 - 14:00
 <a href="tel:+34 651 50 05 85"><button class="button button2">Pedido telefónico</button></a><br/>
 <a href="mailto:SonDeSaboresPeruanos@gmail.com" target="_blank"><button class="button button3">Enviar eMail</button></a><br/>
 <a href="https://vendaenlinia.mercatdevinaros.es/tienda/son-sabores" target="_blank"><button class="button button4">Tienda en el Mercado</button></a><br/>
-<a href="https://sds.coffeecup.com/Tickets-index.html" target="_blank"><button class="button button1">Obsequio</button></a>
+<a href="https://sds.coffeecup.com/Tickets-index.html" target="_blank"><button class="button button1">Promoción</button></a>
 </p>
 
 <script>
