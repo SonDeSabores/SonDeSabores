@@ -136,7 +136,7 @@ design:
 .wrapper{
     position: absolute;
     top:50%;
-    left:2%;
+    left:50%;
     transform: translate(-10%, -10%);
     width: fit-content;
     height:auto;
@@ -307,9 +307,13 @@ Sábados: 10:00 - 14:00
 <a href="https://vendaenlinia.mercatdevinaros.es/tienda/son-sabores" target="_blank"><button class="button button4">Tienda en el Mercado</button></a><br/><br/>
 <!--
 <a href="https://sds.coffeecup.com/Tickets/index.html" target="_blank"><button class="button button1">Promoción</button></a>
--->
 <a href="https://sds.coffeecup.com/Tickets/index.html" target="_blank"><button class="wrapper buttonA">Promoción<span></span><span></span><span></span><span></span></button></a>
+-->
 </p>
+
+<div class="wrapper">
+<a href="https://sds.coffeecup.com/Tickets/index.html" target="_blank"><button buttonA>Promoción<span></span><span></span><span></span><span></span></button></a>
+</div>
 
 <script>
   document.addEventListener('DOMContentLoaded', () => {
