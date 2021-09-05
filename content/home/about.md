@@ -136,7 +136,7 @@ design:
 .wrapper{
     position: relative;
     top:0%;
-    left:0%;
+    left:50%;
     transform: translate(-10%, -10%);
     width: fit-content;
     height:auto;
@@ -304,7 +304,7 @@ Sábados: 10:00 - 14:00
 <a href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI" target="_blank"><button class="button button1">Carta y precios</button></a><br/>
 <a href="tel:+34 651 50 05 85"><button class="button button2">Pedidos y Reservas (Teléfono 651 50 05 85)</button></a><br/>
 <a href="mailto:SonDeSaboresPeruanos@gmail.com" target="_blank"><button class="button button3">Enviar eMail</button></a><br/>
-<a href="https://vendaenlinia.mercatdevinaros.es/tienda/son-sabores" target="_blank"><button class="button button4">Tienda en el Mercado</button></a><br/><br/>
+<a href="https://vendaenlinia.mercatdevinaros.es/tienda/son-sabores" target="_blank"><button class="button button4">Tienda en el Mercado</button></a><br/>
 <!--
 <a href="https://sds.coffeecup.com/Tickets/index.html" target="_blank"><button class="button button1">Promoción</button></a>
 <a href="https://sds.coffeecup.com/Tickets/index.html" target="_blank"><button class="wrapper buttonA">Promoción<span></span><span></span><span></span><span></span></button></a>
