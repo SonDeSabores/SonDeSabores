@@ -136,7 +136,7 @@ design:
 .wrapper{
     position: absolute;
     top:50%;
-    left:5%;
+    left:2%;
     transform: translate(-10%, -10%);
     width: fit-content;
     height:auto;
