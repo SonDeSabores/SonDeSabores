@@ -35,7 +35,7 @@ design:
   </head>
 
 <style>
-.button {
+.buttonA {
   background-color: #0099e6;
   position: relative;
   top: 0%;
@@ -54,12 +54,12 @@ design:
   overflow: hidden;
 }
 
-.button:hover{
+.buttonA:hover{
     color: black;
     background-color: #FFF8C2;
 }
   
-.button:after {
+.buttonA:after {
   content: "";
   background: #ffffff;
   display: block;
@@ -72,7 +72,7 @@ design:
   transition: all 0.8s
 }
 
-.button:active:after {
+.buttonA:active:after {
   padding: 0;
   margin: 0;
   opacity: 1;
@@ -302,10 +302,10 @@ Sábados: 10:00 - 14:00
 </h1>
 
 <p style="padding:15px; border:0px solid black; margin-top:10px; margin-bottom:10px; text-align:center; font-size:22px; border-radius:0px;">
-<a href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI" target="_blank"><button class="button button1">Carta y precios</button></a><br/>
-<a href="tel:+34 651 50 05 85"><button class="button button2">Pedidos y Reservas (Teléfono 651 50 05 85)</button></a><br/>
-<a href="mailto:SonDeSaboresPeruanos@gmail.com" target="_blank"><button class="button button3">Enviar eMail</button></a><br/>
-<a href="https://vendaenlinia.mercatdevinaros.es/tienda/son-sabores" target="_blank"><button class="button button4">Tienda en el Mercado</button></a><br/>
+<a href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI" target="_blank"><button class="buttonA button1">Carta y precios</button></a><br/>
+<a href="tel:+34 651 50 05 85"><button class="buttonA button2">Pedidos y Reservas (Teléfono 651 50 05 85)</button></a><br/>
+<a href="mailto:SonDeSaboresPeruanos@gmail.com" target="_blank"><button class="buttonA button3">Enviar eMail</button></a><br/>
+<a href="https://vendaenlinia.mercatdevinaros.es/tienda/son-sabores" target="_blank"><button class="buttonA button4">Tienda en el Mercado</button></a><br/>
 <a href="https://sds.coffeecup.com/Tickets/index.html" target="_blank"><button class="wrapper">Promoción<span></span><span></span><span></span><span></span></button></a>
 <!--
 <a href="https://sds.coffeecup.com/Tickets/index.html" target="_blank"><button class="button button1">Promoción</button></a>
