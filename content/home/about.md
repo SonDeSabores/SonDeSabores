@@ -85,7 +85,6 @@ design:
 .button4 {width: 250px; background-color: #cc9900;}
 .button5 {width: 50%;   background-color: #992600;}
 
-
 .hit-the-floor {
   color: #fff;
   font-size: 3em;
