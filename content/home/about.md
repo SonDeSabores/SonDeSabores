@@ -153,7 +153,7 @@ design:
     font-weight: 600;
     outline: none;
     cursor: pointer;
-    position: absolute;
+    position: relative;
     padding: 0px;
     overflow: hidden;
     transition: all .5s;
