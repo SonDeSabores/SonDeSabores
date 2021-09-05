@@ -142,7 +142,7 @@ design:
     width: fit-content;
     height:auto;
 }
-.button{
+button{
     width:200px;
     height:70px;
     background: linear-gradient(to left top, #c32c71 50%, #b33771 50%);
@@ -160,11 +160,11 @@ design:
     transition: all .5s;
     box-shadow: 0px 1px 2px rgba(0,0,0,.2);
 }
-.button span{
+button span{
     position: absolute;
     display: block;
 }
-.button span:nth-child(1){
+button span:nth-child(1){
     height: 3px;
     width:200px;
     top:0px;
@@ -184,7 +184,7 @@ design:
         left:200px;
     }
 }
-.button span:nth-child(2){
+button span:nth-child(2){
     height: 70px;
     width: 3px;
     top:-70px;
@@ -203,7 +203,7 @@ design:
         top:70px;
     }
 }
-.button span:nth-child(3){
+button span:nth-child(3){
     height:3px;
     width:200px;
     right:-200px;
@@ -223,7 +223,7 @@ design:
     }
 }
 
-.button span:nth-child(4){
+button span:nth-child(4){
     height:70px;
     width:3px;
     bottom:-70px;
@@ -243,12 +243,12 @@ design:
     }
 }
 
-.button:hover{
+button:hover{
     transition: all .5s;
     transform: rotate(-3deg) scale(1.1);
     box-shadow: 0px 3px 5px rgba(0,0,0,.4);
 }
-.button:hover span{
+button:hover span{
     animation-play-state: paused;
 }
 <!-- Botón animado - FIN -->
