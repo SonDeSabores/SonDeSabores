@@ -142,7 +142,7 @@ design:
     width: fit-content;
     height:auto;
 }
-button{
+.button{
     width:200px;
     height:70px;
     background: linear-gradient(to left top, #c32c71 50%, #b33771 50%);
@@ -160,11 +160,11 @@ button{
     transition: all .5s;
     box-shadow: 0px 1px 2px rgba(0,0,0,.2);
 }
-button span{
+.button span{
     position: absolute;
     display: block;
 }
-button span:nth-child(1){
+.button span:nth-child(1){
     height: 3px;
     width:200px;
     top:0px;
@@ -184,7 +184,7 @@ button span:nth-child(1){
         left:200px;
     }
 }
-button span:nth-child(2){
+.button span:nth-child(2){
     height: 70px;
     width: 3px;
     top:-70px;
@@ -203,7 +203,7 @@ button span:nth-child(2){
         top:70px;
     }
 }
-button span:nth-child(3){
+.button span:nth-child(3){
     height:3px;
     width:200px;
     right:-200px;
@@ -223,7 +223,7 @@ button span:nth-child(3){
     }
 }
 
-button span:nth-child(4){
+.button span:nth-child(4){
     height:70px;
     width:3px;
     bottom:-70px;
@@ -243,12 +243,12 @@ button span:nth-child(4){
     }
 }
 
-button:hover{
+.button:hover{
     transition: all .5s;
     transform: rotate(-3deg) scale(1.1);
     box-shadow: 0px 3px 5px rgba(0,0,0,.4);
 }
-button:hover span{
+.button:hover span{
     animation-play-state: paused;
 }
 <!-- Botón animado - FIN -->
@@ -305,7 +305,7 @@ Sábados: 10:00 - 14:00
 <a href="https://drive.google.com/drive/folders/18_9FEFRLB9bzvI3kZfulINeRh2OaOTNI" target="_blank"><button class="buttonA button1">Carta y precios</button></a><br/>
 <a href="tel:+34 651 50 05 85"><button class="buttonA button2">Pedidos y Reservas (Teléfono 651 50 05 85)</button></a><br/>
 <a href="mailto:SonDeSaboresPeruanos@gmail.com" target="_blank"><button class="buttonA button3">Enviar eMail</button></a><br/>
-<a href="https://vendaenlinia.mercatdevinaros.es/tienda/son-sabores" target="_blank"><button class="buttonA button4">Tienda en el Mercado</button></a><br/>
+<a href="https://vendaenlinia.mercatdevinaros.es/tienda/son-sabores" target="_blank"><button class="buttonA button4">Tienda en el Mercado</button></a><br/><br/>
 <a href="https://sds.coffeecup.com/Tickets/index.html" target="_blank"><button class="wrapper">Promoción<span></span><span></span><span></span><span></span></button></a>
 <!--
 <a href="https://sds.coffeecup.com/Tickets/index.html" target="_blank"><button class="button button1">Promoción</button></a>
