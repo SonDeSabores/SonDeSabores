@@ -135,8 +135,8 @@ design:
 /* Botón animado - INI */
 .wrapper{
     position: relative;
-    top:5%;
-    left:25%;
+    top:10%;
+    left:50px;
     transform: translate(-5%, -5%);
     width: fit-content;
     height:auto;
