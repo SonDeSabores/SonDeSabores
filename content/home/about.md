@@ -23,8 +23,8 @@ design:
       - 20px
       - "0"
 ---
-
 <!DOCTYPE html>
+
 <html>
   <head>
    <!-- Politica de cookies -->
@@ -142,14 +142,17 @@ design:
 <a href="https://www.google.com/search?q=COVID-19+%2BVinar%C3%B3s&oq=COVID19+%2BVinar%C3%B3s&aqs=chrome..69i57.27050j1j15&sourceid=chrome&ie=UTF-8" target="_blank"><button class="button button5">Información</button></a><br/>-->
 
 <!-- Descomentar lo siguiente cuando sea necesario -->
+
 <!-- Nos vemos en <span id="days"></span>d., <span id="hours"></span>h., <span id="minutes"></span>m. y <span id="seconds"></span>s. (más o menos) -->
 
 <!-- Tienda Online Mercado (anterior): http://vinaros.mercadosexcelentes.com/tienda/son-sabores -->
+
 </p>
 
-
 <!-- <h1 style="color:white; text-align:center; font-size:400%;"> -->
+
 <!--   <b>SON DE SABORES</b> -->
+
 <!-- </h1> -->
 
 <h1 class="ColorAnimado">SON DE SABORES</h1>
