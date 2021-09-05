@@ -311,8 +311,8 @@ Sábados: 10:00 - 14:00
 -->
 </p>
 
-<div class="wrapper">
-<a href="https://sds.coffeecup.com/Tickets/index.html" target="_blank"><button buttonA>Promoción<span></span><span></span><span></span><span></span></button></a>
+<div class="wrapper buttonA">
+<a href="https://sds.coffeecup.com/Tickets/index.html" target="_blank"><button>Promoción<span></span><span></span><span></span><span></span></button></a>
 </div>
 
 <script>
