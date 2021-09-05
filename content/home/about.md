@@ -25,12 +25,13 @@ design:
 ---
 
 <!DOCTYPE html>
-<html lang="es" >
+<html>
   <head>
    <!-- Politica de cookies -->
    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="77c7c238-0c79-4e60-8914-2b7cbf72d5a4" data-blockingmode="auto" type="text/javascript"></script>
    <meta charset="UTF-8"/>
    <title>Son de Sabores</title>
+	<meta name="keywords" content="comida peruana, comida para llevar, Perú, Vinaròs, tapas, helados, postres caseros, cerveza, refrescos, ceviche, Mercado Municipal de Vinaròs, buenos precios, calidad">
   </head>
 
 <style>
