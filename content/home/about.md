@@ -290,7 +290,14 @@ design:
   <b>Comida Peruana en el Mercado Municipal de Vinaròs (Castellón)</b>
 </h1>
 
-<div style="text-align: center;">
+.parent {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+<div class="parent">
   <img src="../Apoyo a Ucrania.png">
 </div>
 
