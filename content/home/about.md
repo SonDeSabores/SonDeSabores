@@ -251,13 +251,6 @@ design:
     animation-play-state: paused;
 }
 /* Botón animado - FIN */
-
-.centrado {
-  height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
 </style>
 
 <body>
