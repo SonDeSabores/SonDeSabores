@@ -252,8 +252,11 @@ design:
 }
 /* Botón animado - FIN */
 
-.aligncenter {
-    text-align: center;
+.centrado {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 </style>
 
@@ -290,14 +293,7 @@ design:
   <b>Comida Peruana en el Mercado Municipal de Vinaròs (Castellón)</b>
 </h1>
 
-.parent {
-  height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-<div class="parent">
+<div class="centrado">
   <img src="../Apoyo a Ucrania.png">
 </div>
 
