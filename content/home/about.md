@@ -114,7 +114,7 @@ design:
 
 .ColorAnimado {
   text-align: center;
-  font-size: 2.5em;
+  font-size: 2em;
   line-height: 110%;
   font-weight: bold;
   background: linear-gradient(to right, #fff 20%, #bada55 30%, #bada44 70%, #fff 80%);
