@@ -273,7 +273,7 @@ design:
 
 <!-- </h1> -->
 
-<img src="../Apoyo a Ucrania.png" alt="Ucrania" width="200" height="194" id="Ucrania"/>
+<img src="../Apoyo a Ucrania.png" alt="Ucrania" width="150" height="142" id="Ucrania"/>
 
 <h1 class="ColorAnimado">SON DE SABORES</h1>
 
@@ -289,7 +289,7 @@ design:
 </h1>
 
 <h1 style="color:white; text-align:center; font-size:100%;">
-  En nuestra parada podrá encontrar comida peruana, tapas, helados, extractos de frutas naturales, batidos y zumos de frutas exóticas, postres caseros, cerveza Estrella Damm y Complot IPA, además de otras <a href="https://fernandobenitez.coffeecup.com/FBP%2DGauGAN2%2DGalería/index.html" target="_blank" style="color:rgb(255,240,0);">especialidades</a>. Y todo tanto para consumir en las instalaciones del Mercado como para <a href="https://sds.coffeecup.com/Viaje/index.html" target="_blank" style="color:rgb(255,240,0);">llevar</a>
+  En nuestro establecimiento podrá encontrar comida peruana, tapas, helados, extractos de frutas naturales, batidos y zumos de frutas exóticas, postres caseros, cerveza Estrella Damm y Complot IPA, además de otras <a href="https://fernandobenitez.coffeecup.com/FBP%2DGauGAN2%2DGalería/index.html" target="_blank" style="color:rgb(255,240,0);">especialidades</a>. Y todo tanto para consumir en las instalaciones del Mercado como para <a href="https://sds.coffeecup.com/Viaje/index.html" target="_blank" style="color:rgb(255,240,0);">llevar</a>
 </h1>
 
 <h1 style="color:white; text-align:center; font-size:130%;">
