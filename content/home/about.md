@@ -273,11 +273,9 @@ design:
 
 <!-- </h1> -->
 
-<h1 class="ColorAnimado">SON DE SABORES
-<span class="img-container-inline">
-  <img src="../Apoyo a Ucrania.png" alt="Ucrania">
-</span>
-</h1>
+<h1 class="ColorAnimado">SON DE SABORES</h1>
+
+<img align="middle" src="../Apoyo a Ucrania.png" alt="Ucrania">
 
 <!--
 <h1 style="text-align:center; font-size:150%;"
