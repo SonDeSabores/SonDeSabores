@@ -275,7 +275,7 @@ design:
 
 <h1 class="ColorAnimado">SON DE SABORES</h1>
 
-<img align="middle" src="../Apoyo a Ucrania.png" alt="Ucrania">
+<img src="../Apoyo a Ucrania.png" alt="Ucrania" width="200" height="194" id="Ucrania"/>
 
 <!--
 <h1 style="text-align:center; font-size:150%;"
