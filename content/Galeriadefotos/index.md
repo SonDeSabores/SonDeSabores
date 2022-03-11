@@ -19,7 +19,7 @@ header:
 
 ---
 
-
+{{< gallery album="fotos" >}}
 
 <html>
 <head>
