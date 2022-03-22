@@ -1,6 +1,6 @@
 ---
-title: Disponemos de un departamento en venta en San Rafael del del Río
-subtitle: A estrenar
+title: Disponemos de un departamento en venta
+subtitle: En San Rafael del del Río. A estrenar
 publication_types:
   - "0"
 authors:
@@ -13,7 +13,7 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-summary: A estrenar
+summary: En San Rafael del del Río. A estrenar
 date: 2022-03-22T16:54:37.051Z
 ---
 <html>
