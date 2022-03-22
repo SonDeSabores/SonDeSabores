@@ -39,7 +39,7 @@ date: 2022-03-22T18:00:08.533Z
 
 Vendemos un departamento amueblado a estrenar en San Rafael del Río (Castellón), un lugar tranquilo ubicado entre la playa y la montaña, a escasos 20 minutos de uno y otro lugar. Se encuentra cerca del consultorio médico, del colegio, de la piscina municipal y de tiendas de comestibles.
 
-Tiene 68 m<sup>2</sup> útiles (78 m<sup>2</sup> construidos). Está en primer piso (con ascensor), y cuenta con comedor amplio con cocina americana (incluyendo muebles, termo eléctrico, horno, vitrocerámica, y campana extractora; todo a estrenar), dos habitaciones amplias y dos cuartos de baño completos con ducha, uno de ellos incluido en una de las habitaciones.
+Tiene 68 m<sup>2</sup> útiles (78 m<sup>2</sup> construidos). Está en primer piso (con ascensor), y cuenta con un comedor amplio con cocina americana (incluyendo muebles, termo eléctrico, horno, vitrocerámica, y campana extractora; todo a estrenar), dos habitaciones y dos cuartos de baño completos con ducha; uno de ellos incluido en una de las habitaciones.
 
 Para más información, llamar al teléfono [651 94 55 87](<tel:+34 651 94 55 87>).
 
