@@ -10,11 +10,11 @@ featured: true
 categories:
   - Varios
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 summary: En San Rafael del Río. A estrenar
-date: 2022-03-22T17:27:19.773Z
+date: 2022-03-22T18:34:37.051Z
 ---
 <html>
 <head>
@@ -42,3 +42,31 @@ Vendemos un departamento amueblado a estrenar en San Rafael del Río (Castellón
 Cuenta con 68 m<sup>2</sup> útiles (78 m<sup>2</sup> construidos). Está en primer piso (con ascensor), y cuenta con comedor amplio con cocina americana (incluyendo muebles, termo eléctrico, horno, vitrocerámica, y campana extractora; todo a estrenar), dos habitaciones amplias y dos cuartos de baño completos con ducha, uno de ellos incluido en una de las habitaciones.
 
 Para más información, llamar al teléfono [651 94 55 87](<tel:+34 651 94 55 87>).
+
+![](SRdR-00-Render-A.jpg)
+
+![](SRdR-00-Render-B.jpg)
+
+![](SRdR-00-Render-C.jpg)
+
+![](SRdR-01.jpg)
+
+![](SRdR-02.jpg)
+
+![](SRdR-03.jpg)
+
+![](SRdR-04.jpg)
+
+![](SRdR-05.jpg)
+
+![](SRdR-06.jpg)
+
+![](SRdR-07.jpg)
+
+![](SRdR-08.jpg)
+
+![](SRdR-09.jpg)
+
+<img src="../../flechaparriba.png" id="btnup" class="simplescrollup__button simplescrollup__button- hide" alt="Parriba">
+
+<script src="simplescrollup.js"></script>
