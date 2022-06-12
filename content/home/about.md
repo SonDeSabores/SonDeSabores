@@ -310,7 +310,7 @@ Sábados: 10:00 - 14:00
 <a href="https://vendaenlinia.mercatdevinaros.es/tienda/son-sabores" target="_blank"><button class="button button4">Tienda en el Mercado</button></a><br/>
 <a href="https://sds.coffeecup.com/Adomicilio/index.html" target="_blank"><button class="button button1">Entrega a domicilio</button></a><br/>
 
-<a href="https://g.page/r/CdTYYmjXtTk9EAg/review" target="_blank"><button class="wrapper buttonA">Danos una Reseña<span></span><span></span><span></span><span></span></button></a>
+<a href="https://g.page/r/CdTYYmjXtTk9EAg/review" target="_blank"><button class="wrapper buttonA">Reseña<span></span><span></span><span></span><span></span></button></a>
 
 <!--
 <a href="https://sds.coffeecup.com/Tickets/index.html" target="_blank"><button class="button button1">Promoción</button></a>
