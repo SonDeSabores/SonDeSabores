@@ -24,6 +24,7 @@ design:
   font_size_max: 2.0
   columns: "2"
   background:
-    text_color_light: false
+    text_color_light: true
     image_darken: 0
+    image: sds-portada-02.jpg
 ---
