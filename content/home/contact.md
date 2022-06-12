@@ -15,6 +15,10 @@ content:
       captcha: false
 design:
   columns: "2"
+  background:
+    text_color_light: false
+    image_darken: 0
+    image: sds-portada-02.jpg
 ---
 
 - Ver en [*Google Maps*](https://www.google.com/maps/place/Son+de+Sabores/@40.470255,0.47702,19z/data=!4m5!3m4!1s0x0:0x3d39b5d76862d8d4!8m2!3d40.4701768!4d0.4770107?hl=es).
