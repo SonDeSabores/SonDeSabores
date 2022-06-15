@@ -298,7 +298,7 @@ design:
 <!--
 <b>Horario temporal hasta que la incidencia <a href="https://www.google.com/search?q=%22covid-19%22+%2Bvinar%C3%B2s" style="color:#BDB76B" target="_blank">COVID-19</a> baje a niveles más seguros:<br/>
 -->
-<b>Lunes a Viernes: 10:00 - 14:00 y 17:30 - 20:30<br/>
+<b>Lunes a Viernes: 10:00 - 14:00 y 18:00 - 21:00<br/>
 Sábados: 10:00 - 14:00
 </b>
 </h1>
