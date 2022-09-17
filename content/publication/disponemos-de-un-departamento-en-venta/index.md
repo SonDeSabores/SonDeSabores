@@ -67,6 +67,8 @@ Para más información, llamar al teléfono [651 94 55 87](<tel:+34 651 94 55 87
 
 ![](SRdR-09.jpg)
 
+![](SRdR-10.jpg)
+
 <img src="../../flechaparriba.png" id="btnup" class="simplescrollup__button simplescrollup__button- hide" alt="Parriba">
 
 <script src="simplescrollup.js"></script>
