@@ -4,14 +4,14 @@ subtitle: Por motivos de salud, estoy traspasando este negocio
 date: 2021-02-13T16:12:47.504Z
 summary: ""
 draft: false
-featured: false
+featured: true
 authors:
   - SdS
 tags:
   - Traspaso
 categories: []
 image:
-  filename: mercado-01-ok.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
