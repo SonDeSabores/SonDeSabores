@@ -294,12 +294,12 @@ design:
   En nuestro establecimiento podrá encontrar comida peruana, tapas, helados, extractos de frutas naturales, batidos y zumos de frutas exóticas, postres caseros, cerveza Estrella Damm y Complot IPA, además de otras <a href="https://fernandobenitez.coffeecup.com/FBP%2DGauGAN2%2DGalería/index.html" target="_blank" style="color:rgb(255,240,0);">especialidades</a>. Y todo tanto para consumir en las instalaciones del Mercado como para <a href="https://sds.coffeecup.com/Viaje/index.html" target="_blank" style="color:rgb(255,240,0);">llevar</a>
 </h1>
 
-<h1 style="color:white; text-align:center; font-size:130%;">
+<h1 style="color:rgb(255,240,0); text-align:center; font-size:130%;">
 <!--
 <b>Horario temporal hasta que la incidencia <a href="https://www.google.com/search?q=%22covid-19%22+%2Bvinar%C3%B2s" style="color:#BDB76B" target="_blank">COVID-19</a> baje a niveles más seguros:<br/>
 -->
-<b>Lunes a Viernes: 10:00 - 14:00 y 17:30 - 20:30<br/>
-Sábados: 10:00 - 14:00
+<b>Por motivos de salud, estoy traspasando el negocio<br/>
+Ver abajo, por favor
 </b>
 </h1>
 
