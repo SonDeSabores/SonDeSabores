@@ -1,7 +1,6 @@
 ---
-title: Italianos reaccionan al Ceviche peruano
-subtitle: Italianos prueban el Ceviche peruano por primera vez y sus reacciones
-  sorprenden en las redes sociales
+title: Traspaso de negocio en el Mercado Municipal de Vinaròs
+subtitle: Por motivos de salud, estoy traspasando este negocio
 date: 2021-02-13T16:12:47.504Z
 summary: ""
 draft: false
@@ -9,24 +8,36 @@ featured: false
 authors:
   - SdS
 tags:
-  - Ceviche
-  - Frío
-categories:
-  - Comida
+  - Traspaso
+categories: []
 image:
-  filename: ""
+  filename: mercado-01-ok.jpg
   focal_point: Smart
   preview_only: false
 ---
+Se encuentra en el Mercado Municipal de Vinaròs, y se trata de comida y servicios varios para llevar o para consumir en las instalaciones del propio Mercado.
 
-El ceviche es uno de los platos más típicos y reconocidos de la gastronomía peruana. Por otro lado, Italia, otro país rico en gastronomía y con una gran tradición culinaria marina, goza de una infinidad de platos a base de pescado y mariscos.
+Cuenta con terraza exterior. Se encuentra equipado con mobiliario y maquinaria.
 
-El ceviche de este vídeo, donde  puede observarse la reacción de varios italianos ante su *primera vez*, fue preparado por el restaurante peruano *[El Chorrillano](https://www.facebook.com/Rest-El-Chorrillano-Milano-1450443475222711),* en la ciudad de Milán.
+Se trata de un negocio rentable y ventajoso, con bastante afluencia de clientela debido a la diversidad de negocios existentes en el propio Mercado.
 
-<iframe width="460" height="259" src="https://www.youtube.com/embed/mCSKnU-PxXA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+El local es adecuado para todo tipo de negocios, como por ejemplo, pizzería, pastelería, crepería, hamburguesería, venta de kebab, bocadillos, hot dogs, ensaladas, zumos, comida oriental, comida latina, etc.
 
+El precio del traspaso son 14.500 €.
 
-[Ver noticia original](https://depor.com/off-side/video-viral-italianos-prueban-ceviche-peruano-por-primera-vez-y-sus-reacciones-sorprenden-en-redes-sociales-youtube-yt-tendencias-redes-sociales-curiosidades-nnda-nnrt-noticia/)
+La cuota mensual en el Mercado son 275 €, e incluye la terraza y la recogida de basura.
+
+Tel. / WhatsApp 651 94 55 87
+
+![](mercado-01-ok.jpg)
+
+![](mercado-02-ok.jpg)
+
+![](mercado-03-ok.jpg)
+
+![](mercado-04-ok.jpg)
+
+![](mercado-05-ok.jpg)
 
 <html>
 <head>
