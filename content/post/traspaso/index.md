@@ -23,10 +23,6 @@ Se trata de un negocio rentable y ventajoso, con bastante afluencia de clientela
 
 El local es adecuado para todo tipo de negocios, como por ejemplo, pizzería, pastelería, crepería, hamburguesería, venta de kebab, bocadillos, hot dogs, ensaladas, zumos, comida oriental, comida latina, etc.
 
-El precio del traspaso son 14.500 €.
-
-La cuota mensual en el Mercado son 275 €, e incluye la terraza y la recogida de basura.
-
 Tel. / WhatsApp 651 94 55 87
 
 ![](mercado-01-ok.jpg)
