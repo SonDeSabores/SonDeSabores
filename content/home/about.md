@@ -298,7 +298,7 @@ design:
 <!--
 <b>Horario temporal hasta que la incidencia <a href="https://www.google.com/search?q=%22covid-19%22+%2Bvinar%C3%B2s" style="color:#BDB76B" target="_blank">COVID-19</a> baje a niveles más seguros:<br/>
 -->
-<b>Por motivos de salud, estoy traspasando el negocio<br/>
+<b>Estoy traspasando el negocio<br/>
 Ver abajo, por favor
 </b>
 </h1>
