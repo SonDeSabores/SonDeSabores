@@ -1,6 +1,6 @@
 ---
-title: Traspaso de negocio en el Mercado Municipal de Vinaròs
-subtitle: Por motivos de salud, estoy traspasando este negocio
+title: Traspasaba mi negocio en el Mercado Municipal de Vinaròs, pero ya no...
+subtitle: Por motivos de salud tuve que renunciar al local
 date: 2021-02-13T16:12:47.504Z
 summary: ""
 draft: false
@@ -15,13 +15,13 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Se encuentra en el Mercado Municipal de Vinaròs, y se trata de comida y servicios varios para llevar o para consumir en las instalaciones del propio Mercado.
+Se encontraba en el Mercado Municipal de Vinaròs, y se trataba de comida y servicios varios para llevar o para consumir en las instalaciones del propio Mercado.
 
-Cuenta con terraza exterior. Se encuentra equipado con mobiliario y maquinaria.
+Contaba con terraza exterior. Se encuentraba equipado con mobiliario y maquinaria.
 
-Se trata de un negocio rentable y ventajoso, con bastante afluencia de clientela debido a la diversidad de negocios existentes en el propio Mercado.
+Se trataba de un negocio rentable y ventajoso, con bastante afluencia de clientela debido a la diversidad de negocios existentes en el propio Mercado.
 
-El local es adecuado para todo tipo de negocios, como por ejemplo, pizzería, pastelería, crepería, hamburguesería, venta de kebab, bocadillos, hot dogs, ensaladas, zumos, comida oriental, comida latina, etc.
+El local era adecuado para todo tipo de negocios, como por ejemplo, pizzería, pastelería, crepería, hamburguesería, venta de kebab, bocadillos, hot dogs, ensaladas, zumos, comida oriental, comida latina, etc.
 
 Tel. / WhatsApp 651 94 55 87
 
