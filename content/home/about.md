@@ -299,7 +299,7 @@ design:
 <b>Horario temporal hasta que la incidencia <a href="https://www.google.com/search?q=%22covid-19%22+%2Bvinar%C3%B2s" style="color:#BDB76B" target="_blank">COVID-19</a> baje a niveles más seguros:<br/>
 -->
 <b>Hemos cerrado el negocio, así que estamos cerrados<br/>
-No estamos, pero estamos, pero no estamos, pero estamos...
+No estamos, pero estamos aquí, pero no estamos, pero aquí estamos...
 </b>
 </h1>
 
